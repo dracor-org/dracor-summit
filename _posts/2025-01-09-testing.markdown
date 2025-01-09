@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DraCor Summit"
+date:   2025-01-09 10:21:54 +0100
+categories: 
+---
+
+This is a draft of a post on DraCor summits. Seems to work.
