@@ -13,6 +13,9 @@ a {
   background-color: #1f2448;
   color: #ebf0f7;
 }
+.site-header .site-logo img {
+  margin-top: 2.75em;
+}
 .site-header .site-title, .site-header .page-link {
   color: white;
 }
@@ -22,6 +25,13 @@ a {
 .site-header .site-nav {
   background-color: #1f2448;
   border: none;
+}
+@media screen and (max-width: 600px) {
+  .site-header .site-nav {
+    top: auto;
+    right: 8px;
+    margin-top: 8px;
+  }
 }
 .site-header .site-nav .menu-icon > svg {
   fill: white;

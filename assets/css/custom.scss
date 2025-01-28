@@ -18,6 +18,10 @@ a {
   background-color: $main;
   color: $background;
 
+  .site-logo img {
+    margin-top: 2.75em;
+  }
+
   .site-title, .page-link {
     color: white;
 
@@ -29,6 +33,12 @@ a {
   .site-nav {
     background-color: $main;
     border: none;
+
+    @media screen and (max-width: 600px) {
+      top: auto;
+      right: 8px;
+      margin-top: 8px;
+    }
 
     .menu-icon > svg {
       fill: white;
