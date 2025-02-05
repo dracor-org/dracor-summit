@@ -1,0 +1,47 @@
+$main: #1f2448;             // Dark blue
+$background: #ebf0f7;       // Light blue
+$primary-accent: #0088ff;   // Bright blue
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background-color: $background;
+  color: $main;
+}
+
+a {
+  color: $primary-accent;
+}
+
+.site-header {
+  background-color: $main;
+  color: $background;
+
+  .site-logo img {
+    margin-top: 2.75em;
+  }
+
+  .site-title, .page-link {
+    color: white;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .site-nav {
+    background-color: $main;
+    border: none;
+
+    @media screen and (max-width: 600px) {
+      top: auto;
+      right: 8px;
+      margin-top: 8px;
+    }
+
+    .menu-icon > svg {
+      fill: white;
+    }
+  }
+}
