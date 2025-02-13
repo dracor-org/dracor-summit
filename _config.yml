@@ -37,9 +37,6 @@ minima:
     - title: DraCor on Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/dracor.org"
-    - title: Jekyll repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/jekyll"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
