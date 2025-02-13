@@ -8,7 +8,7 @@ In September 2025, we invite you to the grand DraCor Summit in Berlin. Organized
 
 The DraCor Summit is an Open Science community event that aims to provide open spaces for sharing experiences and knowledge as well as discovering best practices. To this end, a variety of formats will be offered, e.g. workshops, presentations, talks, discussion rounds, hackathon sessions. 
 
-% Participation in the formats is open to all interested persons after free (?) registration. There are special calls for presentations at the Corpus Conference and for scientific talks at the Computational Drama Analysis Workshop (see below).
+[...]
 
 * On **Monday, September 1**, the Pre-Summit program **DraCorOS Training Sessions** will feature hands-on sessions on topics such as corpus building for DraCor and working with the DraCorAPI. You can apply for the Training Sessions during the general registration for the DraCor Summit.
 * On **Tuesday, September 2**, the **DraCor Corpus Conference** is open for corpus maintainers to present their corpora in long talks, short talks and lightning talks. Please see the dedicated Call for Contributions.
