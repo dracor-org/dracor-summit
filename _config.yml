@@ -26,6 +26,7 @@ baseurl: / # the subpath of your site, e.g. /blog
 url: https://dracor-org.github.io/dracor-summit # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dramacorpora
 github_username:  dracor-org
+bluesky_username: dracor.org
 
 # Build settings
 theme: minima
