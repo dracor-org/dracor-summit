@@ -4,4 +4,4 @@ title: CfP
 permalink: /cfp/
 ---
 
-More information comming soon!
+More information coming soon.
