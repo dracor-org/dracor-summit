@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<center><b>SAVE THE DATE</b></center> \
+<p align="center"><b>SAVE THE DATE</b></p>
 
 **Join us for the DraCor Summit in Berlin from 1 until 4 September 2025.** Brought to you by Freie Universität Berlin and University of Potsdam, this four-day event will bring together researchers in computational literary studies, cultural analytics and adjacent fields to present and discuss their research and corpus projects.
 
@@ -26,10 +26,12 @@ The four days will focus on different areas:
 
 **Local Organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
-<center>*</center> \
+<p align="center">*</p>
 
-[EXC2020-Logo] Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence Temporal Communities: Doing Literature in a Global Perspective – EXC 2020 – Project [ID 390608380](https://gepris.dfg.de/gepris/projekt/390608380).
+[EXC2020 logo] Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence Temporal Communities: Doing Literature in a Global Perspective – EXC 2020 – Project [ID 390608380](https://gepris.dfg.de/gepris/projekt/390608380).
 
-[OSCARS-Logo] The authors acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement [No. 101129751](https://cordis.europa.eu/project/id/101129751).
+[OSCARS logo] The authors acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement [No. 101129751](https://cordis.europa.eu/project/id/101129751).
 
-In cooperation with the [Network for Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities) at University of Potsdam.
+[Freie Universität logo] In cooperation with the [Chair of Digital Humanities](https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html) at Freie Universität Berlin.
+
+[Uni Potsdam logo] In cooperation with the [Network for Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities) at University of Potsdam.
