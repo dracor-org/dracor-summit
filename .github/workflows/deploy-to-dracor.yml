@@ -1,0 +1,46 @@
+name: Deploy to dracor.org
+on:
+  workflow_dispatch:
+    inputs:
+      server:
+        description: Server
+        type: choice
+        required: true
+        options:
+          - "staging.dracor.org"
+          - "dracor.org"
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Setup Pages
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
+        with:
+          source: ./
+          destination: ./_site
+
+      - run: ls -l ./_site
+
+      - uses: webfactory/ssh-agent@dc588b651fe13675774614f8e6a936a468676387 # v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
+
+      - name: Deploy to staging.dracor.org
+        run: |
+          rsync -rlvz --delete \
+            -e 'ssh -o StrictHostKeyChecking=no' \
+            ./_site/ \
+            ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@${{ inputs.server }}:/var/www/summit/
