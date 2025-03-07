@@ -26,21 +26,33 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
 
+      # adjust config
+      - run: sed -i -e "s|dracor-org\.github\.io/dracor-summit|summit.${{ inputs.server }}|" _config.yml
+      - run: sed -i -e "s|dracor-org\.github\.io/dracor-summit|summit.${{ inputs.server }}|" _includes/head.html
+      - run: cat _config.yml
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
         with:
           source: ./
           destination: ./_site
 
-      - run: ls -l ./_site
+      # adjust remaining /dracor-summit occurrences
+      - run: |
+          cp -rv _site _sitex
+          ls -l ./
+          ls -la ./_site
+          for f in $(grep -l /dracor-summit -r _sitex); do
+            sed -i -e 's|/dracor-summit||g' $f
+          done
 
       - uses: webfactory/ssh-agent@dc588b651fe13675774614f8e6a936a468676387 # v0.9.0
         with:
           ssh-private-key: ${{ secrets.DRACOR_ORG_DEPLOY_KEY }}
 
-      - name: Deploy to staging.dracor.org
+      - name: Deploy to ${{ inputs.server }}
         run: |
           rsync -rlvz --delete \
             -e 'ssh -o StrictHostKeyChecking=no' \
-            ./_site/ \
+            ./_sitex/ \
             ${{ secrets.DRACOR_ORG_DEPLOY_USER }}@${{ inputs.server }}:/var/www/summit/
