@@ -4,7 +4,7 @@ title: Corpora Conference
 permalink: /cfp/corpora-conference
 ---
 
-## DraCor Corpora Conference
+## Call for Papers: DraCor Corpora Conference
 
 The **DraCor Corpora Conference** is part of the DraCor Summit 2025. It will take place on **Tuesday, 2 September 2025**.
 
