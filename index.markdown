@@ -36,10 +36,26 @@ The four days will focus on different areas:
 <div style="display: flex; align-items: center;">
   <img src="assets/images/oscars-logo.svg" style="width:150px; margin-right: 10px;"/>
   <div>
-    The DraCor Summit ist co-organised by the project [»DraCorOS. Fostering Open Science in Digital Humanities«](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc). We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement [No. 101129751](https://cordis.europa.eu/project/id/101129751).
+    The DraCor Summit ist co-organised by the project <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc">»DraCorOS. Fostering Open Science in Digital Humanities«</a>. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
   </div>
 </div>
 
+<!-- 
 <img src="assets/images/fu-berlin-logo.svg" style="width:150px"/> In cooperation with the [Chair of Digital Humanities](https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html) at Freie Universität Berlin.
+-->
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/fu-berlin-logo.svg" style="width:150px; margin-right: 10px;"/>
+  <div>
+    In cooperation with the <a href="https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html">Chair of Digital Humanities</a> at Freie Universität Berlin.
+  </div>
+</div>
 
+<!--
 <img src="assets/images/uni-potsdam-logo.svg" style="width:150px"/> In cooperation with the [Network for Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities) at University of Potsdam.
+-->
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/uni-potsdam-logo.svg" style="width:150px; margin-right: 10px;"/>
+  <div>
+    In cooperation with the <a href="https://www.uni-potsdam.de/en/digital-humanities">Network for Digital Humanities</a> at University of Potsdam.
+  </div>
+</div>
