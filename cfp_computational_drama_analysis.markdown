@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drama Analysis Workshop
+title: "CfP: Drama Analysis Workshop"
 permalink: /cfp/drama-analysis
 ---
 

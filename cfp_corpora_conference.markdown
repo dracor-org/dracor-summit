@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corpora Conference 
+title: "CfP: Corpora Conference" 
 permalink: /cfp/corpora-conference
 ---
 
