@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: Drama Analysis Workshop
 permalink: /cfp/drama-analysis
 ---
 
