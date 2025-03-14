@@ -30,7 +30,15 @@ The four days will focus on different areas:
 
 [EXC2020 logo] Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence Temporal Communities: Doing Literature in a Global Perspective – EXC 2020 – Project [ID 390608380](https://gepris.dfg.de/gepris/projekt/390608380).
 
+<!-- 
 <img src="assets/images/oscars-logo.svg" style="width:150px; float:left;"/> The DraCor Summit ist co-organised by the project [»DraCorOS. Fostering Open Science in Digital Humanities«](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc). We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement [No. 101129751](https://cordis.europa.eu/project/id/101129751).
+-->
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/oscars-logo.svg" style="width:150px; margin-right: 10px;"/>
+  <div>
+    The DraCor Summit ist co-organised by the project [»DraCorOS. Fostering Open Science in Digital Humanities«](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc). We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement [No. 101129751](https://cordis.europa.eu/project/id/101129751).
+  </div>
+</div>
 
 <img src="assets/images/fu-berlin-logo.svg" style="width:150px"/> In cooperation with the [Chair of Digital Humanities](https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html) at Freie Universität Berlin.
 
