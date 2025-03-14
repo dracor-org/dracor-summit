@@ -4,7 +4,7 @@ title: "CfP: Drama Analysis Workshop"
 permalink: /cfp/drama-analysis
 ---
 
-## Call for Papers: Workshop on Computational Drama Analysis: Achievements and Opportunities
+## Workshop on Computational Drama Analysis: Achievements and Opportunities
 
 The workshop is part of the DraCor Summit 2025. It will take place on **Wednesday, 3 September 2025**.
 
