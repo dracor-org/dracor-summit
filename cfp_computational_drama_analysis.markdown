@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CfP: Drama Analysis Workshop"
-permalink: /cfp/drama-analysis
+permalink: /cfp-drama-analysis
 ---
 
 ## Workshop on Computational Drama Analysis: Achievements and Opportunities

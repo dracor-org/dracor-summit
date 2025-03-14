@@ -29,7 +29,7 @@ The four days will focus on different areas:
 <p align="center">*</p>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="/assets/images/exc-tc-logo.svg" style="width:100px; margin-right: 10px;"/>
+  <img src="assets/images/exc-tc-logo.svg" style="width:100px; margin-right: 10px;"/>
   <div>
     Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence Temporal Communities: Doing Literature in a Global Perspective – EXC 2020 – Project <a href="https://gepris.dfg.de/gepris/projekt/390608380">ID 390608380</a>.
   </div>
@@ -37,21 +37,21 @@ The four days will focus on different areas:
 
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="/assets/images/oscars-logo.svg" style="width:100px; margin-right: 10px;"/>
+  <img src="assets/images/oscars-logo.svg" style="width:100px; margin-right: 10px;"/>
   <div>
     The DraCor Summit ist co-organised by the project <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc">»DraCorOS. Fostering Open Science in Digital Humanities«</a>. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="/assets/images/fu-berlin-logo.svg" style="width:100px; margin-right: 10px;"/>
+  <img src="assets/images/fu-berlin-logo.svg" style="width:100px; margin-right: 10px;"/>
   <div>
     In cooperation with the <a href="https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html">Chair of Digital Humanities</a> at Freie Universität Berlin.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="/assets/images/uni-potsdam-logo.svg" style="width:100px; margin-right: 10px;"/>
+  <img src="assets/images/uni-potsdam-logo.svg" style="width:100px; margin-right: 10px;"/>
   <div>
     In cooperation with the <a href="https://www.uni-potsdam.de/en/digital-humanities">Network for Digital Humanities</a> at University of Potsdam.
   </div>

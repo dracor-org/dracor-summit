@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CfP: Corpora Conference" 
-permalink: /cfp/corpora-conference
+permalink: /cfp-corpora-conference
 ---
 
 ## DraCor Corpora Conference
