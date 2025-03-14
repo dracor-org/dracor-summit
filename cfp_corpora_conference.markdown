@@ -8,7 +8,7 @@ permalink: /cfp-corpora-conference
 
 The **DraCor Corpora Conference** is part of the DraCor Summit 2025. It will take place on **Tuesday, 2 September 2025**.
 
-As of now, the DraCor platform hosts **28 corpora in 22 languages**, comprising more than 4,000 plays encoded in TEI/XML, ranging from Greek antiquity to the second half of the 20th century (sorted by number of plays):
+As of now, the DraCor platform maintains **28 corpora in 22 languages**, comprising more than 4,000 plays encoded in TEI/XML, ranging from Greek antiquity to the second half of the 20th century (sorted by number of plays):
 
 * **Fre**DraCor, **Ger**DraCor, **Eng**DraCor, **Rus**DraCor, **Cal**DraCor, **Dutch**DraCor, **Ita**DraCor, **Hun**DraCor, **Swe**DraCor, **U**DraCor, **Greek**DraCor, **Am**DraCor, **GerSh**DraCor, **Shake**DraCor, **Rom**DraCor, **Pol**DraCor, **Als**DraCor, **Span**DraCor, **Yi**DraCor, **Tat**DraCor, **Bash**DraCor, including some in the making: **Ar**DraCor, **Cze**DraCor, **Georg**DraCor, **He**DraCor, **Jes**DraCor, **NeoLat**DraCor, **Ro**DraCor
 
