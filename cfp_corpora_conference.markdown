@@ -23,8 +23,6 @@ When applying, please provide:
 * Encoding format (if not already TEI/XML)
 * 300–500 words on the status of the respective corpus project and the expected benefits of a conference contribution
 
-Information on where to submit your application will follow shortly.
-
 The round of corpus presentations will be followed by cross-corpora discussions about general workflows, alignment and other strategies to build and maintain a corpus in the DraCor ecosystem.
 
 Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating "submission corpora conference" in the subject line.
