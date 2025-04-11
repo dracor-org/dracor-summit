@@ -20,6 +20,8 @@ The four days will focus on different areas:
 * On **Wednesday, 3 September 2025**, there will be a **Computational Drama Analysis Workshop**, focusing on latest advances in computational and quantitative methods for the study of drama. Please note [the corresponding call for papers](cfp-drama-analysis).
 * On **Thursday, 4 September 2025**, the **DraCor Barcamp** will provide the framework for an open, participant-driven unconference where you can help shape the agenda. You can register for the Barcamp during the general registration for the DraCor Summit.
 
+Optionally, on **Friday, 5 September 2025**, there will be co-working opportunities for further pursuing and developing ideas inspired by the DraCor Summit.
+
 **Venue:** The DraCor Summit will take place at Freie Universität Berlin.
 
 **General registration** for the DraCor summit will be opened in May.
