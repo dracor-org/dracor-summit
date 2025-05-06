@@ -12,7 +12,7 @@ The analysis of drama through computational and quantitative methods has come a 
 
 Three years on, we aim to convene again to give an overview of the current state of computer-aided drama analysis. What new achievements have been made? Which obstacles still need to be overcome? To answer these questions, the workshop invites scholars working with and/or critically reflecting on formal, quantitative or digital methods for analysing drama to discuss the current state of the field and present new perspectives for the future.
 
-The workshop is organised as part of the **DraCor Summit 2025** (1–4 September 2025). Therefore, contributions using corpora, data or tools developed within the DraCor project ([Fischer et al. 2019](https://doi.org/10.5281/zenodo.4284002)) are particularly welcome, but this is not a prerequisite.
+The workshop is organised as part of the **DraCor Summit 2025** (1–5 September 2025). Therefore, contributions using corpora, data or tools developed within the DraCor project ([Fischer et al. 2019](https://doi.org/10.5281/zenodo.4284002)) are particularly welcome, but this is not a prerequisite.
 
 More broadly, we are interested in contributions addressing the following topics:
 
