@@ -15,12 +15,11 @@ There is no registration fee for the conference. For researchers without their o
 
 The five days will focus on different areas:
 
-* On **Monday, 1 September 2025**, there will be **DraCorOS Training Sessions** on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the general registration for the DraCor Summit.
+* On **Monday, 1 September 2025**, there will be **DraCorOS Training Sessions** on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the general registration for the DraCor Summit. On Monday evening, the Summit will officially open with a **keynote by [Clarisse Bardiot](http://www.clarissebardiot.info/)**.
 * On **Tuesday, 2 September 2025**, the first **DraCor Corpora Conference** will take place. There will be presentations on the achievements and challenges of building and maintaining individual corpora. All current and future corpus maintainers are invited to report on their work, please see [the corresponding call for papers](cfp-corpora-conference).
 * On **Wednesday, 3 September 2025**, there will be a **Workshop on Computational Drama Analysis**, focusing on latest advances in computational and quantitative methods for the study of drama. Please note [the corresponding call for papers](cfp-drama-analysis).
 * On **Thursday, 4 September 2025**, the **DraCor Barcamp** will provide the framework for an open, participant-driven unconference where you can help shape the agenda. You can register for the Barcamp during the general registration for the DraCor Summit.
-
-Optionally, on **Friday, 5 September 2025**, there will be co-working opportunities for further pursuing and developing ideas inspired by the DraCor Summit.
+* Optionally, on **Friday, 5 September 2025**, there will be co-working opportunities for further pursuing and developing ideas inspired by the DraCor Summit.
 
 **Venue:** The DraCor Summit will take place at the Freie Universität Berlin.
 
