@@ -4,11 +4,11 @@ title: "Programme Overview"
 permalink: /programme-overview
 ---
 
-|           | Monday, 1 Sep 2025                  | Tuesday, 2 Sep 2025       | Wednesday, 3 Sep 2025                    | Thursday, 4 Sep 2025 | Friday, 5 Sep 2025                |
-|-----------|-------------------------------------|---------------------------|------------------------------------------|----------------------|-----------------------------------|
-| Morning   |                                     | DraCor Corpora Conference | Workshop on Computational Drama Analysis | DraCor Barcamp       | DraCor Open Co-Working (optional) |
-| Afternoon | DraCorOS Training Sessions          | DraCor Corpora Conference | Workshop on Computational Drama Analysis | DraCor Barcamp       | DraCor Open Co-Working (optional) |
-| Evening   | Opening Keynote by Clarisse Bardiot |                           | Get together                             |                      |                                   |
+|           | Monday, 1 Sep. 2025       | Tuesday, 2 Sep. 2025 | Wednesday, 3 Sep. 2025         | Thursday, 4 Sep. 2025 | Friday, 5 Sep. 2025     |
+|-----------|-------------------------------------|--------------------------------|------------------------------------------|---------------------------------|-----------------------------------|
+| Morning   |                                     | DraCor Corpora Conference      | Workshop on Computational Drama Analysis | DraCor Barcamp                  | DraCor Open Co-Working (optional) |
+| Afternoon | DraCorOS Training Sessions          | DraCor Corpora Conference      | Workshop on Computational Drama Analysis | DraCor Barcamp                  | DraCor Open Co-Working (optional) |
+| Evening   | Opening Keynote by Clarisse Bardiot |                                | Get-Together                             |                                 |                                   |
 
 ## Monday
 
@@ -16,9 +16,7 @@ permalink: /programme-overview
 
 (details to follow)
 
-### Opening Keynote by Clarisse Bardiot
-
-(details to follow)
+### Opening Keynote by [Clarisse Bardiot](http://www.clarissebardiot.info/) (Université Rennes 2)
 
 ## Tuesday
 
@@ -27,36 +25,36 @@ permalink: /programme-overview
 #### 9:15–9:30 · Reception and Welcome Coffee
 
 #### 09:30–11:00 · Session I
-- NeoLatDraCor (Julia J. Beine)
-- Digital Lacy (Lou Burnard)
-- ArDraCor (Ulrike Henny-Krahmer)
-- HunDraCor (Szemes Botond)
-- IbsDraCor (Nina Marie Evensen)
-- CETHEFI (Olivier Aubert)
+- **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia J. Beine)
+- **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard)
+- **ArDraCor** (Ulrike Henny-Krahmer, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
+- **[HunDraCor](https://dracor.org/hun)** (Szemes Botond)
+- **IbsDraCor** (Nina Marie Evensen)
+- **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin)
 
 #### 11:00–11:30 · Coffee Break
 
 #### 11:30–13:00 · Session II
-- GerDraCor and RusDraCor (Frank Fischer)
-- UDraCor (Daniil Skorinkin)
-- RoDraCor (Ovio Olaru)
-- YiDraCor (Jonah Lubin)
-- GeorgDraCor (Irakli Khvedelidze)
-- RomDraCor and GreekDraCor (Julia J. Beine)
+- **[GerDraCor](https://dracor.org/ger)** and **[RusDraCor](https://dracor.org/rus)** (Frank Fischer)
+- **[UDraCor](https://dracor.org/u)** (Julia Havrylash, Daniil Skorinkin)
+- **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
+- **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz)
+- **[GeorgDraCor](https://staging.dracor.org/georg)** (Irakli Khvedelidze)
+- **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia J. Beine)
 
 #### 13:00–14:30 · Lunch Break
 
 #### 14:30–16:00 · Session III
-- DutchDraCor/CENETON (Lucas van der Deijl)
-- FreDraCor and EngDraCor (Frank Fischer and Luca Giovannini)
-- CalDraCor (Antonio Rojas Castro)
-- ItaDraCor (Frank Fischer)
-- CzeDraCor (Petr Pořízka)
-- SpanDraCor (María Teresa Santa María Fernández)
+- **[DutchDraCor](https://dracor.org/dutch)/CENETON** (Lucas van der Deijl)
+- **[FreDraCor](https://dracor.org/fre)** and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
+- **[CalDraCor](https://dracor.org/cal)** (Antonio Rojas Castro)
+- **[ItaDraCor](https://dracor.org/ita)** (Frank Fischer)
+- **[CzeDraCor](https://staging.dracor.org/cze)** (Petr Pořízka)
+- **[SpanDraCor](https://dracor.org/span)** (María Teresa Santa María Fernández, María Ángel Somalo, José Torres, David Merino, Patricia García Sánchez-Migallón, Zoraida Sánchez, Guadalupe Frutos)
 
 #### 15:45–16:00 · Coffee Break
 
-#### 16:00–16:45 · Conclusion and Outlook for DraCor Corpora
+#### 16:00–16:45 · Wrap-Up and Outlook
 
 #### 16:45–17:30 · Free Exchange
 
@@ -102,6 +100,6 @@ permalink: /programme-overview
 
 ## Friday
 
-### DraCor Open Coworking
+### DraCor Open Co-Working
 
 (details to follow)
