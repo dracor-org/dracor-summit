@@ -25,6 +25,6 @@ When applying, please provide:
 
 The round of corpus presentations will be followed by cross-corpora discussions about general workflows, alignment and other strategies to build and maintain a corpus in the DraCor ecosystem.
 
-Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating "submission corpora conference" in the subject line.
+Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating »submission corpora conference« in the subject line.
 
 **Organisers of the DraCor Corpora Conference**: Laura Untner, Frank Fischer (Freie Universität Berlin)

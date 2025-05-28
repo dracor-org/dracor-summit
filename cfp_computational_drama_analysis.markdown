@@ -36,6 +36,6 @@ Revised full papers will be later published as peer-reviewed conference proceedi
 * 3 September 2025: Workshop
 * end of 2025: Deadline for revised papers
 
-Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating "submission drama workshop" in the subject line.
+Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating »submission drama workshop« in the subject line.
 
 **Organisers of the Computational Drama Analysis Workshop:** Luca Giovannini, Daniil Skorinkin (University of Potsdam)

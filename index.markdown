@@ -15,7 +15,7 @@ There is no registration fee for the conference. For researchers without their o
 
 The five days will focus on different areas:
 
-* On **Monday, 1 September 2025**, there will be **DraCorOS Training Sessions** on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the general registration for the DraCor Summit. On Monday evening, the Summit will officially open with a **keynote by [Clarisse Bardiot](https://perso.univ-rennes2.fr/en/clarisse.bardiot)**.
+* On **Monday, 1 September 2025**, there will be **DraCorOS Training Sessions** on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the general registration for the DraCor Summit. On Monday evening, the Summit will be officially opened with a **keynote by [Clarisse Bardiot](https://perso.univ-rennes2.fr/en/clarisse.bardiot)**.
 * On **Tuesday, 2 September 2025**, the first **DraCor Corpora Conference** will take place. There will be presentations on the achievements and challenges of building and maintaining individual corpora. All current and future corpus maintainers are invited to report on their work, please see [the corresponding call for papers](cfp-corpora-conference).
 * On **Wednesday, 3 September 2025**, there will be a **Workshop on Computational Drama Analysis**, focusing on latest advances in computational and quantitative methods for the study of drama. Please note [the corresponding call for papers](cfp-drama-analysis).
 * On **Thursday, 4 September 2025**, the **DraCor Barcamp** will provide the framework for an open, participant-driven unconference where you can help shape the agenda. You can register for the Barcamp during the general registration for the DraCor Summit.
@@ -23,7 +23,7 @@ The five days will focus on different areas:
 
 **Venue:** The DraCor Summit will take place at the Freie Universität Berlin.
 
-**General registration** for the DraCor summit will be opened in May.
+**General registration** for the DraCor Summit will be opened in May.
 
 **Local Organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
