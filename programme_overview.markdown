@@ -16,7 +16,7 @@ permalink: /programme-overview
 
 (details to follow)
 
-### Opening Keynote by [Clarisse Bardiot](http://www.clarissebardiot.info/) (Université Rennes 2)
+### Opening Keynote by [Clarisse Bardiot](https://perso.univ-rennes2.fr/en/clarisse.bardiot) (Université Rennes 2)
 
 ## Tuesday
 
