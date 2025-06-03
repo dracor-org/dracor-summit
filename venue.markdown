@@ -4,7 +4,7 @@ title: "Venue"
 permalink: /venue
 ---
 
-The DraCor Summit will take place at Freie Universität Berlin, in the Seminar Centre (Monday to Thursday) and in the building of the Cluster of Excellence »Temporal Communities« (on Friday).
+The DraCor Summit will take place at the Freie Universität Berlin, in the Seminar Centre (Monday to Thursday) and in the building of the Cluster of Excellence »Temporal Communities« (on Friday).
 
 ![image](https://www.fu-berlin.de/sites/rosila/Media/Eingang_Thielallee.jpg)
 
