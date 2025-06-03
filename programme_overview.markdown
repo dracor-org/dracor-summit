@@ -14,7 +14,15 @@ permalink: /programme-overview
 
 ### DraCorOS Training Sessions
 
-(details to follow)
+#### Beginners' Strand
+*(no previous skills required)*
+- 14:00–15:30 · DraCor Corpus Building (XML/TEI introduction, ezDrama)
+- 16:00–17:30 · Simple Analyses with DraCor Data (Voyant, AntConc, RAWGraph, Datawrapper, Gephi, DraCor Tools tab)
+
+#### Advanced Strand
+*(advanced skills in programming and utilising the [DraCor API](https://dracor.org/doc/api))*
+- 14:00–15:30 · Python-Based Analysis and DraCor Books
+- 16:00–17:30 · Reproducible Research with Docker
 
 ### Opening Keynote by [Clarisse Bardiot](https://perso.univ-rennes2.fr/en/clarisse.bardiot) (Université Rennes 2)
 
