@@ -15,11 +15,11 @@ There is no registration fee for the conference. For researchers without their o
 
 The five days will focus on different areas:
 
-* On **Monday, 1 September 2025**, there will be [**DraCorOS Training Sessions**](dracoros_training_sessions) on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the [general registration](registration) for the DraCor Summit. On Monday evening, the Summit will be officially opened with a [**keynote**](opening_keynote) by [**Clarisse Bardiot**](https://perso.univ-rennes2.fr/en/clarisse.bardiot)**.
+* On **Monday, 1 September 2025**, there will be [**DraCorOS Training Sessions**](dracoros_training_sessions) on topics such as corpus building in the context of DraCor and working with the DraCor API. You can register for these sessions during the [general registration](registration) for the DraCor Summit. On Monday evening, the Summit will be officially opened with a [**keynote**](opening_keynote) by [**Clarisse Bardiot**](https://perso.univ-rennes2.fr/en/clarisse.bardiot).
 * On **Tuesday, 2 September 2025**, the first [**DraCor Corpora Conference**](corpora_conference) will take place. It will feature 18 presentations focusing on the achievements and challenges involved in developing and maintaining individual corpora. Many current – and future – corpus maintainers will share insights into their work.
 * On **Wednesday, 3 September 2025**, there will be a [**Workshop on Computational Drama Analysis**](computational_drama_analysis), focusing on latest advances in computational and quantitative methods for the study of drama.
 * On **Thursday, 4 September 2025**, the [**DraCor Barcamp**](barcamp) will provide the framework for an open, participant-driven unconference where you can help shape the agenda. You can register for the Barcamp during the general registration for the DraCor Summit.
-* Optionally, on **Friday, 5 September 2025**, there will be [co-working opportunities](open_coworking) for further pursuing and developing ideas inspired by the DraCor Summit.
+* Optionally, on **Friday, 5 September 2025**, there will be [**co-working opportunities**](open_coworking) for further pursuing and developing ideas inspired by the DraCor Summit.
 
 **Venue:** The DraCor Summit will take place [at the Freie Universität Berlin](venue).
 
