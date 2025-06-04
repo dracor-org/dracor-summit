@@ -110,9 +110,8 @@ a {
 
     @media screen and (max-width: 600px) {
       position: absolute;
-      top: 50%;
+      top: 80px;
       right: 15px;
-      transform: translateY(-50%);
       background-color: $main;
       border: 1px solid rgba(255,255,255,0.1);
       border-radius: 5px;
