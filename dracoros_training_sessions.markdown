@@ -12,7 +12,7 @@ The DraCorOS Training Sessions take place on Monday, 1 September 2025.
 
 #### 14:00–15:30 · DraCor Corpus Building (XML/TEI Introduction, ezDrama)
 
-#### 16:00–17:30 · Simple Analyses with DraCor Data (Voyant, AntConc, RAWGraph, Datawrapper, Gephi, DraCor Tools tab)
+#### 16:00–17:30 · Simple Analyses with DraCor Data (Voyant, AntConc, RAWGraph, Datawrapper, Gephi, DraCor Tools Tab)
 
 ### Advanced Strand
 

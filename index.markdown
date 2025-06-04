@@ -23,9 +23,11 @@ The five days will focus on different areas:
 
 **Venue:** The DraCor Summit will take place [at the Freie Universität Berlin](venue).
 
-[**General registration**](registration) for the DraCor Summit opened on 4 June 2025.
+[**General registration**](registration) for the DraCor Summit opened on 5 June 2025.
 
 **Local Organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
+
+**Hwo to contact us:** info@dracor.org
 
 <p align="center">*</p>
 
