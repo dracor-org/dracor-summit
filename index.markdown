@@ -25,9 +25,9 @@ The five days will focus on different areas:
 
 [**General registration**](registration) for the DraCor Summit opened on 5 June 2025.
 
-**Local Organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
+**Local organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
-**Hwo to contact us:** info@dracor.org
+**How to contact us:** info@dracor.org
 
 <p align="center">*</p>
 
