@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Opening Keynote"
-permalink: /opening_keynote
+title: "Workshop on Computational Drama Analysis"
+permalink: /computational_drama_analysis
 ---
 
 The Workshop on Computational Drama Analysis takes place on Wednesday, 3 September 2025.
