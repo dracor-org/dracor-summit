@@ -9,8 +9,6 @@ main:
         url: "opening_keynote"
       - title: "DraCor Corpora Conference (Tue)"
         url: "corpora_conference"
-      - title: "DraCor Corpora Conference (Tue)"
-        url: "corpora_conference"
       - title: "Workshop on Computational Drama Analysis (Wed)"
         url: "computational_drama_analysis"
       - title: "Barcamp (Thu)"
