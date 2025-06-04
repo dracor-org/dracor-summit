@@ -1,3 +1,5 @@
+---
+---
 $main: #1f2448;             // Dark blue
 $background: #ebf0f7;       // Light blue
 $primary-accent: #0088ff;   // Bright blue
@@ -34,10 +36,123 @@ a {
     background-color: $main;
     border: none;
 
+    // Navigation items container
+    .trigger {
+      display: flex;
+      align-items: center;
+    }
+
+    // Individual navigation items
+    .nav-item {
+      position: relative;
+      
+      // Add dropdown arrow for items with submenus
+      &.has-submenu > .page-link::after {
+        content: ' ▼';
+        font-size: 0.8em;
+        margin-left: 5px;
+      }
+    }
+
+    // Submenu dropdown styles
+    .submenu {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background: white;
+      min-width: 250px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(-10px);
+      transition: all 0.3s ease;
+      z-index: 1000;
+
+      .page-link {
+        color: $main !important; // Override white color for submenu
+        margin: 0;
+        padding: 12px 20px;
+        border-bottom: 1px solid #f0f0f0;
+        font-size: 0.9em;
+        white-space: nowrap;
+        display: block;
+
+        &:last-child {
+          border-bottom: none;
+        }
+
+        &:hover {
+          background: $primary-accent;
+          color: white !important;
+          text-decoration: none;
+        }
+      }
+    }
+
+    // Show submenu on hover
+    .nav-item:hover .submenu {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+
     @media screen and (max-width: 600px) {
       top: auto;
       right: 8px;
       margin-top: 8px;
+
+      .trigger {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .nav-item {
+        width: 100%;
+        
+        &.has-submenu > .page-link::after {
+          content: ' +';
+          float: right;
+        }
+      }
+
+      .page-link {
+        display: block;
+        padding: 10px 15px;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+      }
+
+      .submenu {
+        position: static;
+        box-shadow: none;
+        border: none;
+        border-radius: 0;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        background: rgba(0,0,0,0.1);
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+
+        .page-link {
+          color: rgba(255,255,255,0.8) !important;
+          padding-left: 30px;
+          background: rgba(0,0,0,0.1);
+          border-bottom: 1px solid rgba(255,255,255,0.05);
+
+          &:hover {
+            background: rgba(255,255,255,0.1);
+            color: white !important;
+          }
+        }
+      }
+
+      .nav-item:hover .submenu,
+      .nav-item.mobile-active .submenu {
+        max-height: 300px;
+      }
     }
 
     .menu-icon > svg {

@@ -1,0 +1,37 @@
+# _data/navigation.yml
+main:
+  - title: "Events"
+    url: "#events"
+    submenu:
+      - title: "Barcamp"
+        url: "/dracor-summit/barcamp"
+      - title: "Opening Keynote"
+        url: "/dracor-summit/opening_keynote"
+      - title: "DraCor Corpora Conference"
+        url: "/dracor-summit/corpora_conference"
+      - title: "DraCorOS Training Sessions"
+        url: "/dracor-summit/dracoros_training_sessions"
+      - title: "Open Co-Working"
+        url: "/dracor-summit/open_coworking"
+
+  - title: "Call for Papers"
+    url: "#cfp"
+    submenu:
+      - title: "CfP: Drama Analysis Workshop"
+        url: "/dracor-summit/cfp-drama-analysis"
+      - title: "CfP: Corpora Conference"
+        url: "/dracor-summit/cfp-corpora-conference"
+
+  - title: "Information"
+    url: "#info"
+    submenu:
+      - title: "Programme Overview"
+        url: "/dracor-summit/programme-overview"
+      - title: "Registration"
+        url: "/dracor-summit/registration"
+      - title: "Travel Information"
+        url: "/dracor-summit/travel"
+      - title: "Venue"
+        url: "/dracor-summit/venue"
+      - title: "Bursaries"
+        url: "/dracor-summit/bursaries"
