@@ -33,6 +33,18 @@ a {
   .site-nav {
     background-color: $main;
     border: none;
+    float: right;
+    line-height: 54px;
+
+    // Hide nav trigger checkbox
+    .nav-trigger {
+      display: none;
+    }
+
+    // Hide menu icon by default
+    .menu-icon {
+      display: none;
+    }
 
     // Navigation items container
     .trigger {
@@ -97,9 +109,50 @@ a {
     }
 
     @media screen and (max-width: 600px) {
-      top: auto;
+      position: absolute;
+      top: 9px;
       right: 8px;
-      margin-top: 8px;
+      background-color: $main;
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 5px;
+      text-align: right;
+
+      // Show hamburger menu label on mobile
+      label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+      }
+
+      // Show menu icon on mobile
+      .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+
+        > svg {
+          fill: white;
+        }
+      }
+
+      // Hide trigger by default
+      input ~ .trigger {
+        clear: both;
+        display: none;
+      }
+
+      // Show trigger when checkbox is checked
+      input:checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+      }
 
       .trigger {
         flex-direction: column;
@@ -119,6 +172,11 @@ a {
         display: block;
         padding: 10px 15px;
         border-bottom: 1px solid rgba(255,255,255,0.1);
+        margin-left: 20px;
+
+        &:not(:last-child) {
+          margin-right: 0;
+        }
       }
 
       .submenu {
@@ -139,6 +197,7 @@ a {
           padding-left: 30px;
           background: rgba(0,0,0,0.1);
           border-bottom: 1px solid rgba(255,255,255,0.05);
+          margin-left: 0;
 
           &:hover {
             background: rgba(255,255,255,0.1);

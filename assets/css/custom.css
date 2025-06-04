@@ -19,7 +19,13 @@ a {
       text-decoration: none; }
   .site-header .site-nav {
     background-color: #1f2448;
-    border: none; }
+    border: none;
+    float: right;
+    line-height: 54px; }
+    .site-header .site-nav .nav-trigger {
+      display: none; }
+    .site-header .site-nav .menu-icon {
+      display: none; }
     .site-header .site-nav .trigger {
       display: flex;
       align-items: center; }
@@ -63,9 +69,36 @@ a {
       transform: translateY(0); }
     @media screen and (max-width: 600px) {
       .site-header .site-nav {
-        top: auto;
+        position: absolute;
+        top: 9px;
         right: 8px;
-        margin-top: 8px; }
+        background-color: #1f2448;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 5px;
+        text-align: right; }
+        .site-header .site-nav label[for="nav-trigger"] {
+          display: block;
+          float: right;
+          width: 36px;
+          height: 36px;
+          z-index: 2;
+          cursor: pointer; }
+        .site-header .site-nav .menu-icon {
+          display: block;
+          float: right;
+          width: 36px;
+          height: 26px;
+          line-height: 0;
+          padding-top: 10px;
+          text-align: center; }
+          .site-header .site-nav .menu-icon > svg {
+            fill: white; }
+        .site-header .site-nav input ~ .trigger {
+          clear: both;
+          display: none; }
+        .site-header .site-nav input:checked ~ .trigger {
+          display: block;
+          padding-bottom: 5px; }
         .site-header .site-nav .trigger {
           flex-direction: column;
           align-items: stretch; }
@@ -77,7 +110,10 @@ a {
         .site-header .site-nav .page-link {
           display: block;
           padding: 10px 15px;
-          border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+          border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+          margin-left: 20px; }
+          .site-header .site-nav .page-link:not(:last-child) {
+            margin-right: 0; }
         .site-header .site-nav .submenu {
           position: static;
           box-shadow: none;
@@ -94,7 +130,8 @@ a {
             color: rgba(255, 255, 255, 0.8) !important;
             padding-left: 30px;
             background: rgba(0, 0, 0, 0.1);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            margin-left: 0; }
             .site-header .site-nav .submenu .page-link:hover {
               background: rgba(255, 255, 255, 0.1);
               color: white !important; }
