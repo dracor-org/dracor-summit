@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CfP: Drama Analysis Workshop"
+title: "CfP: Workshop on Computational Drama Analysis"
 permalink: /cfp-drama-analysis
 ---
 
@@ -24,18 +24,18 @@ More broadly, we are interested in contributions addressing the following topics
 * Exploitation of linked open data and metadata analysis
 * LLM approaches to drama (history)
 
-We invite the submission of short abstracts (up to 500 words) on any of the above-mentioned or closely related topics by **6 May 2025**. A decision on the acceptance to the workshop will be made by the workshop organisers. Submissions should be in English and do not need to be anonymised (open peer review).
+We invite the submission of short abstracts (up to 500 words) on any of the above-mentioned or closely related topics by <s>6 May 2025</s> **13 May 2025**. A decision on the acceptance to the workshop will be made by the workshop organisers. Submissions should be in English and do not need to be anonymised (open peer review).
 
 Prior to the workshop, the accepted abstracts need to be extended into full papers (4000–6000 words), which will be collected in a conference reader provided to participants before the workshop. A template (word/odt/latex) will be provided to the authors of accepted abstracts.
 
 Revised full papers will be later published as peer-reviewed conference proceedings; further details will follow. For the specific deadlines, please see the timeline below.
 
-* 6 May 2025: Deadline for abstracts (up to 500 words)
+* <s>6 May</s> 13 May 2025: Deadline for abstracts (up to 500 words)
 * until 26 May 2025: Notification of acceptance
 * 10 August 2025: Deadline for full papers (4000–6000 words)
 * 3 September 2025: Workshop
 * end of 2025: Deadline for revised papers
 
-Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **6 May 2025**, stating »submission drama workshop« in the subject line.
+Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by <s>6 May 2025</s> **13 May 2025**, stating »submission drama workshop« in the subject line.
 
 **Organisers of the Computational Drama Analysis Workshop:** Luca Giovannini, Daniil Skorinkin (University of Potsdam)
