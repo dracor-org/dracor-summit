@@ -11,7 +11,7 @@ layout: home
 **[DraCor](https://dracor.org/)** – short for Drama Corpora – is a digital ecosystem dedicated to the study of drama from antiquity to the 20th century. The multilingual community project follows the principles of open science. We currently maintain **28 drama corpora** encoded in [TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative) with a total of **over 4,000 annotated full texts of plays in 22 languages**. It is the basis for a very vibrant research landscape around the computational research of drama corpora. Since the beginning of 2024 alone, more than 50 monographs and scientific articles [have been published](https://dracor.org/doc/research) worldwide that work with DraCor data.
 
 The DraCor Summit aims to provide an overview of the current state of an important field of computational literary studies and a space for the exchange of experiences. Various formats will be offered for this purpose, ranging from workshops, lectures, discussion rounds through to hackathon sessions.
-There is no registration fee for the conference. For researchers without their own funding, there is also the option of applying for a [bursary](bursaries). We may also be able to arrange for childcare during the Summit.
+There is no registration fee for the conference. For researchers without their own funding, there is also the option of applying for a [travel grant](grants). We may also be able to arrange for childcare during the Summit.
 
 The five days will focus on different areas:
 
@@ -23,7 +23,7 @@ The five days will focus on different areas:
 
 **Venue:** The DraCor Summit will take place [at the Freie Universität Berlin](venue).
 
-[**General registration**](registration) for the DraCor Summit opened on 5 June 2025.
+[**General registration**](registration) for the DraCor Summit opened on 6 June 2025.
 
 **Local organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
