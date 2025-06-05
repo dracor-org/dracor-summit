@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Grants"
+title: "Travel Grants"
 permalink: /grants
 ---
 
