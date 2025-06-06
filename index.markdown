@@ -27,7 +27,7 @@ The five days will focus on different areas:
 
 **Local organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
-**How to contact us:** info@dracor.org
+**How to contact us:** [info@dracor.org](mailto:info@dracor.org)
 
 <p align="center">*</p>
 
