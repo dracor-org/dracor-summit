@@ -11,7 +11,7 @@ The DraCor Corpora Conference takes place on Tuesday, 2 September 2025.
 #### 09:30–11:00 · Session I
 - **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia J. Beine)
 - **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard)
-- **ArDraCor** (Ulrike Henny-Krahmer, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
+- **ArDraCor** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
 - **[HunDraCor](https://dracor.org/hun)** (Szemes Botond)
 - **IbsDraCor** (Nina Marie Evensen)
 - **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin)
