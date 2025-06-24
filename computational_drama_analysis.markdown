@@ -6,6 +6,13 @@ permalink: /computational_drama_analysis
 
 The Workshop on Computational Drama Analysis takes place on Wednesday, 3 September 2025.
 
+Venue ([Seminar Centre](venue)):\
+**Room L113**\
+Seminarzentrum der Freien Universität Berlin\
+Freie Universität Berlin\
+Otto-von-Simson-Str. 26\
+14195 Berlin-Dahlem
+
 #### 9:00–9:50 · Arrival and Registration
 
 #### 9:50–10:00 · Introduction

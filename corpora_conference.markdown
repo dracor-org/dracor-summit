@@ -6,6 +6,13 @@ permalink: /corpora_conference
 
 The DraCor Corpora Conference takes place on Tuesday, 2 September 2025.
 
+Venue ([Seminar Centre](venue)):\
+**Room L115**\
+Seminarzentrum der Freien Universität Berlin\
+Freie Universität Berlin\
+Otto-von-Simson-Str. 26\
+14195 Berlin-Dahlem
+
 #### 9:15–9:30 · Reception and Welcome Coffee
 
 #### 09:30–11:00 · Session I

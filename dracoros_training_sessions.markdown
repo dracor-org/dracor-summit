@@ -6,6 +6,13 @@ permalink: /dracoros_training_sessions
 
 The DraCorOS Training Sessions take place on Monday, 1 September 2025.
 
+Venue ([Seminar Centre](venue)):\
+**Room L115**\
+Seminarzentrum der Freien Universität Berlin\
+Freie Universität Berlin\
+Otto-von-Simson-Str. 26\
+14195 Berlin-Dahlem
+
 ### Beginners' Strand
 
 (no previous skills required)

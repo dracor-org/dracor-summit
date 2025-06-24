@@ -13,6 +13,8 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
+We will be using various rooms at the Seminar Centre, which are specified on the individual pages for each day of the Summit.
+
 ![image](https://www.fu-berlin.de/sites/abt-3/Bauprojekte1/neubau-geisteswissenschaftliche-nutzung/OVS15-2.jpg)
 
 EXC2020 »Temporal Communities«\
