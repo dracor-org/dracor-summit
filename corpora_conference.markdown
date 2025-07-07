@@ -16,6 +16,7 @@ Otto-von-Simson-Str. 26\
 #### 9:15–9:30 · Reception and Welcome Coffee
 
 #### 09:30–11:00 · Session I
+##### Session Chair: Frank Fischer
 - **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia J. Beine)
 - **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard)
 - **ArDraCor** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
@@ -26,6 +27,7 @@ Otto-von-Simson-Str. 26\
 #### 11:00–11:30 · Coffee Break
 
 #### 11:30–13:00 · Session II
+##### Session Chair: Laura Untner
 - **[GerDraCor](https://dracor.org/ger)** and **[RusDraCor](https://dracor.org/rus)** (Frank Fischer)
 - **[UDraCor](https://dracor.org/u)** (Julia Havrylash, Daniil Skorinkin)
 - **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
@@ -36,6 +38,7 @@ Otto-von-Simson-Str. 26\
 #### 13:00–14:30 · Lunch Break
 
 #### 14:30–16:00 · Session III
+##### Session Chair: Henny Sluyter-Gäthje
 - **[DutchDraCor](https://dracor.org/dutch)/CENETON** (Lucas van der Deijl)
 - **[FreDraCor](https://dracor.org/fre)** and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
 - **[CalDraCor](https://dracor.org/cal)** (Antonio Rojas Castro)
