@@ -38,12 +38,11 @@ jobs:
           destination: ./_site
 
       # adjust remaining /dracor-summit occurrences
-      - run: |
+      - name: Fix URL paths
+        run: |
           cp -rv _site _sitex
-          ls -l ./
-          ls -la ./_site
           for f in $(grep -l /dracor-summit -r _sitex); do
-            sed -i -e 's|/dracor-summit||g' $f
+            sed -i -e "s|/dracor-summit/|/|g" $f
           done
 
       - uses: webfactory/ssh-agent@a6f90b1f127823b31d4d4a8d96047790581349bd # v0.9.1
