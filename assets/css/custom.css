@@ -70,7 +70,8 @@ a {
     @media screen and (max-width: 600px) {
       .site-header .site-nav {
         position: absolute;
-        top: 80px;
+        align-self: end;
+        bottom: 9px;
         right: 15px;
         background-color: #1f2448;
         border: 1px solid rgba(255, 255, 255, 0.1);
@@ -89,16 +90,31 @@ a {
           width: 36px;
           height: 26px;
           line-height: 0;
-          padding-top: 10px;
-          text-align: center; }
-          .site-header .site-nav .menu-icon > svg {
-            fill: white; }
+          padding-top: 8px;
+          text-align: center;
+          position: relative; }
+        .site-header .site-nav .hamburger-line {
+          display: block;
+          width: 18px;
+          height: 3px;
+          background-color: white;
+          padding: 0.1px;
+          margin: 3px auto;
+          transition: all 0.3s ease;
+          transform-origin: center;
+          position: relative; }
         .site-header .site-nav input ~ .trigger {
           clear: both;
           display: none; }
         .site-header .site-nav input:checked ~ .trigger {
           display: block;
           padding-bottom: 5px; }
+        .site-header .site-nav input:checked ~ label .hamburger-line:nth-child(1) {
+          transform: rotate(45deg) translateY(9px);}
+        .site-header .site-nav input:checked ~ label .hamburger-line:nth-child(2) {
+          opacity: 0; }
+        .site-header .site-nav input:checked ~ label .hamburger-line:nth-child(3) {
+          transform: rotate(-45deg) translateY(-9px);}
         .site-header .site-nav .trigger {
           flex-direction: column;
           align-items: stretch; }
@@ -138,7 +154,5 @@ a {
         .site-header .site-nav .nav-item:hover .submenu,
         .site-header .site-nav .nav-item.mobile-active .submenu {
           max-height: 300px; } }
-    .site-header .site-nav .menu-icon > svg {
-      fill: white; }
 
 /*# sourceMappingURL=custom.css.map */
