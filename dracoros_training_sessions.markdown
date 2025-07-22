@@ -17,9 +17,13 @@ Otto-von-Simson-Str. 26\
 
 (no previous skills required)
 
-#### 14:00–15:30 · DraCor Corpus Building (XML/TEI Introduction, ezDrama)
+#### 14:00–15:30 · DraCor Corpus Building
 
-#### 16:00–17:30 · Simple Analyses with DraCor Data (Voyant, AntConc, RAWGraph, Datawrapper, Gephi, DraCor Tools Tab)
+XML/TEI Introduction, DraCor Schema, Oxygen XML Editor, OCR Best Practices, ezDrama
+
+#### 16:00–17:30 · Simple Analyses with DraCor Data
+
+Voyant, AntConc, RAWGraph, Datawrapper, Gephi/Gephi Lite, DraCor Tools Tab
 
 ### Advanced Strand
 
