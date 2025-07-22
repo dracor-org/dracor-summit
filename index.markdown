@@ -29,6 +29,8 @@ The five days will focus on different areas:
 
 **How to contact us:** [info@dracor.org](mailto:info@dracor.org)
 
+**Student assistants:** En De Tang, Leonid Nezhinsky, Stephan Schwarz, Lilly Welz, Roya Zendebudie.
+
 <p align="center">*</p>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
@@ -37,7 +39,6 @@ The five days will focus on different areas:
     Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence »Temporal Communities: Doing Literature in a Global Perspective« – EXC 2020 – Project <a href="https://gepris.dfg.de/gepris/projekt/390608380">ID 390608380</a>.
   </div>
 </div>
-
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
   <img src="assets/images/oscars-logo.svg" style="width:100px; margin-right:10px;"/>
