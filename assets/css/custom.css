@@ -73,11 +73,14 @@ a {
         align-self: end;
         bottom: 9px;
         top: unset;
-        right: 15px;
+        right: 7px;
         background-color: #1f2448;
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 5px;
         text-align: right; }
+        .site-header .site-nav .trigger {
+          position: absolute;
+          top: 40px;
+          right: 0;
+          background-color: #1f2448; }
         .site-header .site-nav label[for="nav-trigger"] {
           display: block;
           float: right;
