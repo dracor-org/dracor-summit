@@ -19,22 +19,22 @@ Important: You have to be [registered](registration) at the DraCor Summit to tak
 
 General Outline:
 
-### 9:15–9:30 · Arrival, Registration, Coffee
+#### 9:15–9:30 · Arrival, Registration, Coffee
 
-### 9:30–09:45 · Welcome & Introduction to the Barcamp Format
+#### 9:30–09:45 · Welcome & Introduction to the Barcamp Format
 
-### 9:45–10:15 · Session Pitching: Participants Propose Topics
+#### 9:45–10:15 · Session Pitching: Participants Propose Topics
 
-### 10:15–11:00 · **Session Slot 1**
+#### 10:15–11:00 · **Session Slot 1**
 
-### 11:00–11:30 · Coffee Break
+#### 11:00–11:30 · Coffee Break
 
-### 11:30–13:00 · **Session Slot 2**
+#### 11:30–13:00 · **Session Slot 2**
 
-### 13:00–14:00 · Lunch Break
+#### 13:00–14:00 · Lunch Break
 
-### 14:00–15:30 · **Session Slot 3**
+#### 14:00–15:30 · **Session Slot 3**
 
-### 15:30–16:00 · Coffee Break
+#### 15:30–16:00 · Coffee Break
 
-### 16:00–17:30 · **Session Slot 4**
+#### 16:00–17:30 · **Session Slot 4**
