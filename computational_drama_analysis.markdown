@@ -28,7 +28,7 @@ Otto-von-Simson-Str. 26\
 #### 12:00–13:00 · Session II
 ##### Session Chair: Antonio Rojas Castro
 - 12:00–12:30 · Small Large Language Models for Digital Humanities Tasks – The Bechdel-Wallace-Test on the DraCor as a Model Case (Thomas Jäger)
-- 12:30–13:00 · Evaluating MCP-empowered LLM Usage of the DraCor API (Ingo Börner, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke)
+- 12:30–13:00 · Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API (Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer, Carsten Milling)
 
 #### 13:00–14:00 · Lunch Break
 
