@@ -38,3 +38,37 @@ General Outline:
 #### 15:30–16:00 · Coffee Break
 
 #### 16:00–17:30 · **Session Slot 4**
+
+Registered Barcamp Participants:
+
+- Jan Angermeier
+- Ksenia Anisimova
+- Olivier Aubert
+- Julia Jennifer Beine
+- Ingo Börner
+- Louis Burnard
+- Joris Dolderer
+- Frank Fischer
+- Luca Giovannini
+- Tabeer Khilji
+- Juri Leino
+- Jonah Lubin
+- Carsten Milling
+- Dennis Mischke
+- Yael Netzer
+- Leonid Nezhinskiy
+- Eugenia Nicolaci
+- Eric Omazu
+- Charles Pletcher
+- Erik Renz
+- Antonio Rojas
+- Mareike Schumacher
+- Melanie Seltmann
+- Daniil Skorinkin
+- Henny Sluyter-Gäthje
+- Sara Taha Eltaher Ibrahim
+- EnDe Tang
+- Peer Trilcke
+- Aura Cristina Udrea
+- Laura Untner
+- Roya Zendebudie

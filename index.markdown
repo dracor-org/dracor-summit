@@ -29,7 +29,7 @@ The five days will focus on different areas:
 
 **How to contact us:** [info@dracor.org](mailto:info@dracor.org)
 
-**Student assistants:** Tabeer Khilji, Leonid Nezhinsky, Stephan Schwarz, En De Tang, Lilly Welz, Roya Zendebudie.
+**Student assistants:** Tabeer Khilji, Leonid Nezhinsky, Stephan Schwarz, EnDe Tang, Lilly Welz, Roya Zendebudie.
 
 <p style="text-align:center;">*</p>
 
