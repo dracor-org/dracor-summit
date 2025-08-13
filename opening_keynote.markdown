@@ -4,7 +4,7 @@ title: "Opening Keynote"
 permalink: /opening_keynote
 ---
 
-The Opening Keynote takes place on Monday, 1 September 2025, at 18:00.
+The Opening Keynote will take place on Monday, 1 September 2025, at 18:00, following a **welcome address** by the President of Freie Universität Berlin, **[Günter M. Ziegler](https://www.fu-berlin.de/en/einrichtungen/praesidium/praesident/index.html)**.
 
 Venue ([Seminar Centre](venue)):\
 **Room L115**\
