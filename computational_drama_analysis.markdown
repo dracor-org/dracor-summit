@@ -21,7 +21,7 @@ Otto-von-Simson-Str. 26\
 ##### Session Chair: Luca Giovannini
 - 10:00–10:30 · The Case of Heinrich von Kleist: Methodological Consequences of Computational Approaches to Literary History (Benjamin Krautter)
 - 10:30–11:00 · Mapping the Dramaturgical Arc: Computational Approaches to Comedy and Tragedy (Botond Szemes)
-- 11:00–11:30 · Stage Configurations and Dramatic Rhythm: Computational Dramaturgical Analysis of Ludvig Holberg’s Comedies (Ulla Kallenbach, Anna Lawaetz)
+- 11:00–11:30 · Constellations of Characters and Dramaturgical Structures: A Computational Analysis of Ludvig Holberg's Comedies (Ulla Kallenbach, Anna Lawaetz)
 
 #### 11:30–12:00 · Coffee Break
 
@@ -42,7 +42,7 @@ Otto-von-Simson-Str. 26\
 
 #### 16:00–17:30 · Session IV
 ##### Session Chair: Daniil Skorinkin
-- 16:00–16:30 · Annotating Digital Traces of Performance: Methods and Approaches (Pantelis Michelakis, Claire Kenward, Mike Kelly)
+- 16:00–16:30 · Annotating Digital Traces of Performance: Methods and Approaches (Mike Kelly, Claire Kenward, Giovanna Di Martino, and Pantelis Michelakis)
 - 16:30–17:00 · Sentiment Analysis of RusDraCor with BERT-Based Models: Exploring Emotional Tendencies of Russian Drama and Method Limitations (Ksenia Anisimova)
 - 17:00–17:30 · What Does Drama Sound Like? (Svenja Guhr, Nils Reiter, Janis Pagel)
 
