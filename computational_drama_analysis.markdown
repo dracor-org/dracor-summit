@@ -42,7 +42,7 @@ Otto-von-Simson-Str. 26\
 
 #### 16:00–17:30 · Session IV
 ##### Session Chair: Daniil Skorinkin
-- 16:00–16:30 · Annotating Digital Traces of Performance: Methods and Approaches (Mike Kelly, Claire Kenward, Giovanna Di Martino, and Pantelis Michelakis)
+- 16:00–16:30 · Annotating Digital Traces of Performance: Methods and Approaches (Mike Kelly, Claire Kenward, Giovanna Di Martino, Pantelis Michelakis)
 - 16:30–17:00 · Sentiment Analysis of RusDraCor with BERT-Based Models: Exploring Emotional Tendencies of Russian Drama and Method Limitations (Ksenia Anisimova)
 - 17:00–17:30 · What Does Drama Sound Like? (Svenja Guhr, Nils Reiter, Janis Pagel)
 

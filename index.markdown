@@ -23,7 +23,7 @@ The five days will focus on different areas:
 
 **Venue:** The DraCor Summit will take place [at the Freie Universität Berlin](venue).
 
-[**General registration**](registration) for the DraCor Summit opened on 6 June 2025.
+[**General registration**](registration) for the DraCor Summit opened on 6 June 2025 and will remain open until 20 August 2025.
 
 **Local organisers:** Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
@@ -34,28 +34,28 @@ The five days will focus on different areas:
 <p align="center">*</p>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="assets/images/exc-tc-logo.svg" style="width:100px; margin-right:10px;"/>
+  <a href="https://www.temporal-communities.de/"><img src="assets/images/exc-tc-logo.svg" style="width:100px; margin-right:10px;"/></a>
   <div>
     Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence »Temporal Communities: Doing Literature in a Global Perspective« – EXC 2020 – Project <a href="https://gepris.dfg.de/gepris/projekt/390608380">ID 390608380</a>.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="assets/images/oscars-logo.svg" style="width:100px; margin-right:10px;"/>
+  <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc"><img src="assets/images/oscars-logo.svg" style="width:100px; margin-right:10px;"/></a>
   <div>
-    The DraCor Summit ist co-organised by the project <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc">»DraCorOS. Fostering Open Science in Digital Humanities«</a>. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
+    The DraCor Summit ist co-organised by the project »DraCorOS. Fostering Open Science in Digital Humanities«. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="assets/images/fu-berlin-logo.svg" style="width:100px; margin-right:10px;"/>
+  <a href="https://www.fu-berlin.de/"><img src="assets/images/fu-berlin-logo.svg" style="width:100px; margin-right:10px;"/>
   <div>
     In cooperation with the <a href="https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html">Chair of Digital Humanities</a> at the Freie Universität Berlin.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom:20px;">
-  <img src="assets/images/uni-potsdam-logo.svg" style="width:100px; margin-right:10px;"/>
+  <a href="https://www.uni-potsdam.de/"><img src="assets/images/uni-potsdam-logo.svg" style="width:100px; margin-right:10px;"/></a>
   <div>
     In cooperation with the <a href="https://www.uni-potsdam.de/en/digital-humanities">Network for Digital Humanities</a> at the University of Potsdam.
   </div>
