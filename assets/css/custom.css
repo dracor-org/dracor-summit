@@ -67,7 +67,20 @@ a {
       opacity: 1;
       visibility: visible;
       transform: translateY(0); }
+    .logos {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 3em;
+    }
+    .logos img {
+      max-height: 50px;
+    }
     @media screen and (max-width: 600px) {
+      .logos {
+        flex-direction: column;
+        gap: 3em;
+        align-items: flex-start;
+      }
       .site-header .site-nav {
         position: absolute;
         align-self: end;
