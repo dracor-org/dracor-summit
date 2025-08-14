@@ -33,6 +33,8 @@ The five days will focus on different areas:
 
 <p style="text-align:center;">*</p>
 
+**Acknowledgements:**
+
 <div style="display: flex; align-items: center; margin-bottom:20px;">
   <div>
     Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence <a href="https://www.temporal-communities.de/">»Temporal Communities: Doing Literature in a Global Perspective«</a> – EXC 2020 – Project <a href="https://gepris.dfg.de/gepris/projekt/390608380">ID 390608380</a>.
