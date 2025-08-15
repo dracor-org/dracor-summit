@@ -51,5 +51,3 @@ Otto-von-Simson-Str. 26\
 #### 16:15–16:45 · Wrap-Up and Outlook
 
 #### 16:45–17:30 · Free Exchange
-
-#### 19:00 · Dinner (self-paid)
