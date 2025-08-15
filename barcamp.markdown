@@ -7,7 +7,7 @@ permalink: /barcamp
 The DraCor Barcamp takes place on Thursday, 4 September 2025.
 
 Venue ([Seminar Centre](venue)):\
-**Room L116**\
+**Room L113**\
 Seminarzentrum der Freien Universität Berlin\
 Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
