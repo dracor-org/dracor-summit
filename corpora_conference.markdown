@@ -46,9 +46,9 @@ Otto-von-Simson-Str. 26\
 - **[CzeDraCor](https://staging.dracor.org/cze)** (Petr Pořízka)
 - **[SpanDraCor](https://dracor.org/span)** (María Teresa Santa María Fernández, María Ángel Somalo, José Torres, David Merino, Patricia García Sánchez-Migallón, Zoraida Sánchez, Guadalupe Frutos)
 
-#### 15:45–16:00 · Coffee Break
+#### 16:00–16:15 · Coffee Break
 
-#### 16:00–16:45 · Wrap-Up and Outlook
+#### 16:15–16:45 · Wrap-Up and Outlook
 
 #### 16:45–17:30 · Free Exchange
 
