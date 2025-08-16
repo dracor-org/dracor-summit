@@ -19,9 +19,9 @@ Otto-von-Simson-Str. 26\
 
 (no previous skills required)
 
-#### 14:00–15:30 · DraCor Corpus Building
+#### 14:00–15:30 · From Dramatic Text to DraCor TEI
 
-XML/TEI Introduction, DraCor Schema, Oxygen XML Editor, OCR Best Practices, ezDrama
+XML/TEI Introduction, Encoding Drama in TEI, and Automation of Encoding
 
 #### 16:00–17:30 · Simple Analyses with DraCor Data
 
