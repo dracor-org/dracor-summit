@@ -12,3 +12,5 @@ EXC2020 »Temporal Communities«\
 Freie Universität Berlin\
 Otto-von-Simson-Str. 15\
 14195 Berlin-Dahlem
+
+#### 9:15–9:30 · Registration and Welcome Coffee

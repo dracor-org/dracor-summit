@@ -13,7 +13,7 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
-#### 9:00–9:50 · Arrival and Registration
+#### 9:00–9:50 · Registration and Welcome Coffee
 
 #### 9:50–10:00 · Introduction
 
@@ -46,4 +46,5 @@ Otto-von-Simson-Str. 26\
 - 16:30–17:00 · Sentiment Analysis of RusDraCor with BERT-Based Models: Exploring Emotional Tendencies of Russian Drama and Method Limitations (Ksenia Anisimova)
 - 17:00–17:30 · What Does Drama Sound Like? (Svenja Guhr, Nils Reiter, Janis Pagel)
 
-#### 19:00 · Social Dinner
+#### 18:00 · Social Dinner
+- In the garden of the cluster building, [Otto-von-Simson-Str. 15](venue).

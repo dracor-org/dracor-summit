@@ -13,11 +13,11 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
-#### 9:15–9:30 · Reception and Welcome Coffee
+#### 9:15–9:30 · Registration and Welcome Coffee
 
 #### 09:30–11:00 · Session I
 ##### Session Chair: Frank Fischer
-- **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia J. Beine)
+- **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia Jennifer Beine)
 - **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard)
 - **ArDraCor** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
 - **[HunDraCor](https://dracor.org/hun)** (Szemes Botond)
@@ -33,7 +33,7 @@ Otto-von-Simson-Str. 26\
 - **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
 - **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz)
 - **[GeorgDraCor](https://staging.dracor.org/georg)** (Irakli Khvedelidze)
-- **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia J. Beine)
+- **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia Jennifer Beine)
 
 #### 13:00–14:30 · Lunch Break
 

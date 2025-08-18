@@ -8,7 +8,7 @@ permalink: /programme-overview
 |-----------|-------------------------------------|--------------------------------|------------------------------------------|---------------------------------|-----------------------------------|
 | Morning   |                                     | DraCor Corpora Conference      | Workshop on Computational Drama Analysis | DraCor Barcamp                  | DraCor Open Co-Working (optional) |
 | Afternoon | DraCorOS Training Sessions          | DraCor Corpora Conference      | Workshop on Computational Drama Analysis | DraCor Barcamp                  | DraCor Open Co-Working (optional) |
-| Evening   | Opening Keynote by Clarisse Bardiot | Dinner (self-paid)             | Social Dinner                            |                                 |                                   |
+| Evening   | Opening Keynote by Clarisse Bardiot |                                | Social Dinner                            |                                 |                                   |
 
 ## Monday
 

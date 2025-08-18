@@ -23,6 +23,8 @@ Otto-von-Simson-Str. 26\
 
 XML/TEI Introduction, Encoding Drama in TEI, and Automation of Encoding
 
+#### 15:30–16:00 · Coffee Break
+
 #### 16:00–17:30 · Simple Analyses with DraCor Data
 
 Voyant, AntConc, RAWGraph, Datawrapper, Gephi/Gephi Lite, DraCor Tools Tab
@@ -32,5 +34,7 @@ Voyant, AntConc, RAWGraph, Datawrapper, Gephi/Gephi Lite, DraCor Tools Tab
 (advanced skills in programming and utilising the [DraCor API](https://dracor.org/doc/api))
 
 #### 14:00–15:30 · Python-Based Analysis and DraCor Books
+
+#### 15:30–16:00 · Coffee Break
 
 #### 16:00–17:30 · Reproducible Research with Docker

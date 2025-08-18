@@ -19,7 +19,7 @@ Important: You have to be [registered](registration) at the DraCor Summit to tak
 
 General Outline:
 
-#### 9:15–9:30 · Arrival, Registration, Coffee
+#### 9:15–9:30 · Registration and Welcome Coffee
 
 #### 9:30–09:45 · Welcome & Introduction to the Barcamp Format
 
