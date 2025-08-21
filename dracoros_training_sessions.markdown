@@ -15,7 +15,7 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
-### Beginners' Strand
+### Beginners’ Strand
 
 (no previous skills required)
 

@@ -31,30 +31,16 @@ The five days will focus on different areas:
 
 **Student assistants:** Julia Cardoso Espindola, Tabeer Khilji, Leonid Nezhinsky, Stephan Schwarz, EnDe Tang, Lilly Welz, Roya Zendebudie.
 
+The official event poster, including the detailed schedule, was uploaded to Zenodo: [doi:10.5281/zenodo.16919640](https://doi.org/10.5281/zenodo.16919640).
+
 <p style="text-align:center;">*</p>
 
 **Acknowledgements:**
 
-<div style="display: flex; align-items: center; margin-bottom:20px;">
-  <div>
-    Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy in the context of the Cluster of Excellence <a href="https://www.temporal-communities.de/">»Temporal Communities: Doing Literature in a Global Perspective«</a> – EXC 2020 – Project <a href="https://gepris.dfg.de/gepris/projekt/390608380">ID 390608380</a>.
-  </div>
-</div>
+In cooperation with the Cluster of Excellence »Temporal Communities: Doing Literature in a Global Perspective«, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation). 
 
-<div style="display: flex; align-items: center; margin-bottom:20px;">
-  <div>
-    The DraCor Summit is co-organised by the project <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc">»DraCorOS. Fostering Open Science in Digital Humanities«</a>. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
-  </div>
-</div>
+The DraCor Summit is co-organised by the project <a href="https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc">»DraCorOS. Fostering Open Science in Digital Humanities«</a>. We acknowledge the OSCARS project, which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement <a href="https://cordis.europa.eu/project/id/101129751">No. 101129751</a>.
 
-<div style="display: flex; align-items: center; margin-bottom:20px;">
-  <div>
-    In cooperation with the <a href="https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html">Chair of Digital Humanities</a> at the Freie Universität Berlin.
-  </div>
-</div>
+In cooperation with the <a href="https://www.geisteswissenschaften.fu-berlin.de/we02/digital-humanities/index.html">Chair of Digital Humanities</a> at the Freie Universität Berlin.
 
-<div style="display: flex; align-items: center; margin-bottom:20px;">
-  <div>
-    In cooperation with the <a href="https://www.uni-potsdam.de/en/digital-humanities">Network for Digital Humanities</a> at the University of Potsdam.
-  </div>
-</div>
+In cooperation with the <a href="https://www.uni-potsdam.de/en/digital-humanities">Network for Digital Humanities</a> at the University of Potsdam.

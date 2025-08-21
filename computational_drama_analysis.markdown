@@ -21,7 +21,7 @@ Otto-von-Simson-Str. 26\
 ##### Session Chair: Luca Giovannini
 - 10:00–10:30 · The Case of Heinrich von Kleist: Methodological Consequences of Computational Approaches to Literary History (Benjamin Krautter)
 - 10:30–11:00 · Mapping the Dramaturgical Arc: Computational Approaches to Comedy and Tragedy (Botond Szemes)
-- 11:00–11:30 · Constellations of Characters and Dramaturgical Structures: A Computational Analysis of Ludvig Holberg's Comedies (Ulla Kallenbach, Anna Lawaetz)
+- 11:00–11:30 · Constellations of Characters and Dramaturgical Structures: A Computational Analysis of Ludvig Holberg’s Comedies (Ulla Kallenbach, Anna Lawaetz)
 
 #### 11:30–12:00 · Coffee Break
 
