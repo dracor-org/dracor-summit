@@ -13,6 +13,8 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
+Conference reader: https://zenodo.org/records/16814035 
+
 #### 9:00–9:50 · Registration and Welcome Coffee
 
 #### 9:50–10:00 · Introduction
