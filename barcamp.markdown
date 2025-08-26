@@ -29,7 +29,7 @@ General Outline:
 
 #### 11:00–11:30 · Coffee Break
 
-#### 11:30–13:00 · **Session 2 & 3**
+#### 11:30–13:00 · **Sessions 2 & 3**
 
 #### 13:00–14:00 · Lunch Break
 
@@ -37,7 +37,7 @@ General Outline:
 
 #### 15:30–16:00 · Coffee Break
 
-#### 16:00–17:30 · **Session Slot 4 & 5**
+#### 16:00–17:30 · **Sessions 4 & 5**
 
 Registered Barcamp Participants:
 
