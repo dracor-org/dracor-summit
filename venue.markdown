@@ -11,7 +11,8 @@ The DraCor Summit will take place at the Freie Universität Berlin, in the Semin
 Seminarzentrum der Freien Universität Berlin\
 Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
-14195 Berlin-Dahlem
+14195 Berlin-Dahlem\
+([Google Maps](https://maps.app.goo.gl/36njoSqBsPzg7w3s7))
 
 ![image](https://www.fu-berlin.de/sites/rosila/Media/seminarzentrum.jpg)
 
