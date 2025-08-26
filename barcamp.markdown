@@ -25,19 +25,19 @@ General Outline:
 
 #### 9:45–10:15 · Session Pitching: Participants Propose Topics
 
-#### 10:15–11:00 · **Session Slot 1**
+#### 10:15–11:00 · **Session 1**
 
 #### 11:00–11:30 · Coffee Break
 
-#### 11:30–13:00 · **Session Slot 2**
+#### 11:30–13:00 · **Session 2 & 3**
 
 #### 13:00–14:00 · Lunch Break
 
-#### 14:00–15:30 · **Session Slot 3**
+#### 14:00–15:30 · World Championship: **[Battle of the Plays](https://battle-of-the-plays.github.io/)**
 
 #### 15:30–16:00 · Coffee Break
 
-#### 16:00–17:30 · **Session Slot 4**
+#### 16:00–17:30 · **Session Slot 4 & 5**
 
 Registered Barcamp Participants:
 
