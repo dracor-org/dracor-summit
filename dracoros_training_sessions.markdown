@@ -27,7 +27,7 @@ XML/TEI Introduction, Encoding Drama in TEI, and Automation of Encoding
 
 #### 16:00–17:30 · Simple Analyses with DraCor Data
 
-Voyant, AntConc, RAWGraph, Datawrapper, Gephi/Gephi Lite, DraCor Tools Tab
+We will explore browser-based applications for visualising and analysing plays from the DraCor platform. The focus will be on tools such as [Voyant](https://voyant-tools.org/), [RAWGraphs](https://www.rawgraphs.io/), [Datawrapper](https://www.datawrapper.de/), and [Gephi Lite](https://gephi.org/gephi-lite/), with a brief outlook on additional resources. Participants are welcome to bring their own use cases, drawing from the more than 4,000 plays available on DraCor. (Slides for the workshop are [here](https://lehkost.github.io/slides/2025-09-01-dracor-simple/index.html).)
 
 ### Advanced Strand
 
