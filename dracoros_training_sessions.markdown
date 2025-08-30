@@ -35,7 +35,7 @@ We will explore browser-based applications for visualising and analysing plays f
 
 #### 14:00–15:30 · Python-based Analysis in DraCor Jupyter Notebooks
  
-The focus of this session lies on analysing DraCor data with Python. Using the DraCor Notebooks, we will work on small research questions like analysing the genre distribution of corpora, comparing character speech using the NLP library _spacy_, or catching the protagonist of a play based on network metrics.  
+The focus of this session lies on analysing DraCor data with Python. Using the [DraCor Notebooks](http://github.com/dracor-org/dracor-notebooks), we will work on small research questions like analysing the genre distribution of corpora, comparing character speech using the NLP library _spacy_, or catching the protagonist of a play based on network metrics.  
 Participants are very welcome to share their own research questions! 
 
 #### 15:30–16:00 · Coffee Break
