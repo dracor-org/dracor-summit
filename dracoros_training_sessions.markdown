@@ -20,6 +20,7 @@ Otto-von-Simson-Str. 26\
 (no previous skills required)
 
 #### 14:00–15:30 · From Dramatic Text to DraCor TEI: XML/TEI Introduction, Encoding Drama in TEI, and Automation of Encoding  
+
 In the first part of this session, we will introduce XML/TEI and discuss why the TEI format is used in Computational Literary Studies. In the second part, we will present different workflows to encode dramatic texts in TEI. We will consider three types of text sources: texts without any markup, texts with basic markup, and texts with advanced markup. We will also discuss how to automate the encoding process and which tools may be used for support. Finally, we will provide a flowchart to help you choose a suitable encoding workflow for your project.   
 
 #### 15:30–16:00 · Coffee Break
@@ -32,7 +33,10 @@ We will explore browser-based applications for visualising and analysing plays f
 
 (advanced skills in programming and utilising the [DraCor API](https://dracor.org/doc/api))
 
-#### 14:00–15:30 · Python-Based Analysis and DraCor Books
+#### 14:00–15:30 · Python-based Analysis in DraCor Jupyter Notebooks
+ 
+The focus of this session lies on analysing DraCor data with Python. Using the DraCor Notebooks, we will work on small research questions like analysing the genre distribution of corpora, comparing character speech using the NLP library _spacy_, or catching the protagonist of a play based on network metrics.  
+Participants are very welcome to share their own research questions! 
 
 #### 15:30–16:00 · Coffee Break
 
