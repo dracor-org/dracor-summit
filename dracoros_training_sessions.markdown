@@ -41,3 +41,5 @@ Participants are very welcome to share their own research questions!
 #### 15:30–16:00 · Coffee Break
 
 #### 16:00–17:30 · Reproducible Research with Docker
+
+This training session demonstrates how to establish reproducible research workflows using Docker to create local instances of the DraCor infrastructure, enabling researchers to work with fixed, versioned corpus data. Participants will learn to set up and populate a containerized DraCor environment with specific versions of custom corpora, addressing the fundamental challenge that DraCor's "living corpora" continuously evolve over time, making repeating research difficult.
