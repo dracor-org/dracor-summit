@@ -18,7 +18,7 @@ Otto-von-Simson-Str. 26\
 
 We will be using various rooms at the Seminar Centre, which are specified on the individual pages for each day of the Summit.
 
-On Friday, we will relocate to the building of the Cluster of Excellence »Temporal Communities«:
+On Friday, we will relocate to the building of the Cluster of Excellence »Temporal Communities«. This is also were the reception following Monday’s keynote and the social dinner on Wednesday evening will take place:
 
 ![image](https://www.fu-berlin.de/sites/abt-3/Bauprojekte1/neubau-geisteswissenschaftliche-nutzung/OVS15-2.jpg)
 

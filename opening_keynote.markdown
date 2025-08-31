@@ -24,3 +24,6 @@ Drawing on the ERC project [From Stage to Data](https://doi.org/10.3030/10109709
 **[Clarisse Bardiot](https://perso.univ-rennes2.fr/en/clarisse.bardiot)** is a professor of Contemporary Theatre History and Digital Humanities at Rennes 2 University. Her research focuses on the digital traces of the performing arts, the analysis of creative processes, the history and aesthetics of digital performance, the preservation of digital works, and experimental publishing. In 2023, she was awarded an ERC Advanced Grant for the project »From Stage to Data, the Digital Turn of Contemporary Performing Arts Historiography (STAGE)«. She is the author of [Performing Arts and Digital Humanities: From Traces to Data](https://doi.org/10.1002/9781119855569) (Wiley / ISTE 2021).
 
 <small>(image source: [clarissebardiot.info](http://www.clarissebardiot.info/bio/))</small>
+
+### 19:30 · Reception
+- In the garden of the cluster building, [Otto-von-Simson-Str. 15](venue).
