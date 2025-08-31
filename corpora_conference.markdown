@@ -24,7 +24,7 @@ Otto-von-Simson-Str. 26\
 - **[IbsDraCor](https://staging.dracor.org/ibs)** (Nina Marie Evensen)
 - **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin)
 
-#### 11:00–11:30 · Coffee Break
+#### 11:00–11:30 · Coffee Break ☕
 
 #### 11:30–13:00 · Session II
 ##### Session Chair: Laura Untner
@@ -46,7 +46,7 @@ Otto-von-Simson-Str. 26\
 - **[CzeDraCor](https://staging.dracor.org/cze)** (Petr Pořízka)
 - **[SpanDraCor](https://dracor.org/span)** (María Teresa Santa María Fernández, María Ángel Somalo, José Torres, David Merino, Patricia García Sánchez-Migallón, Zoraida Sánchez, Guadalupe Frutos)
 
-#### 16:00–16:15 · Coffee Break
+#### 16:00–16:15 · Coffee Break ☕
 
 #### 16:15–16:45 · Wrap-Up and Outlook
 

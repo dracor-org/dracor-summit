@@ -25,7 +25,7 @@ The conference reader was uploaded to Zenodo: [doi:10.5281/zenodo.16814034](http
 - 10:30–11:00 · Mapping the Dramaturgical Arc: Computational Approaches to Comedy and Tragedy (Botond Szemes)
 - 11:00–11:30 · Constellations of Characters and Dramaturgical Structures: A Computational Analysis of Ludvig Holberg’s Comedies (Ulla Kallenbach, Anna Lawaetz)
 
-#### 11:30–12:00 · Coffee Break
+#### 11:30–12:00 · Coffee Break ☕
 
 #### 12:00–13:00 · Session II
 ##### Session Chair: Antonio Rojas Castro
@@ -40,7 +40,7 @@ The conference reader was uploaded to Zenodo: [doi:10.5281/zenodo.16814034](http
 - 14:30–15:00 · Modeling Imitatio. Character Alignment and Adaptation Strategies in Early Modern Drama (Lucas van der Deijl)
 - 15:00–15:30 · Ecologies on Stage (Mareike Schumacher, Marie Flüh, Felix Lempp)
 
-#### 15:30–16:00 · Coffee Break
+#### 15:30–16:00 · Coffee Break ☕
 
 #### 16:00–17:30 · Session IV
 ##### Session Chair: Daniil Skorinkin

@@ -27,7 +27,7 @@ General Outline:
 
 #### 10:15–11:00 · **Session 1**
 
-#### 11:00–11:30 · Coffee Break
+#### 11:00–11:30 · Coffee Break ☕
 
 #### 11:30–13:00 · **Sessions 2 & 3**
 
@@ -35,7 +35,7 @@ General Outline:
 
 #### 14:00–15:30 · World Championship: **[Battle of the Plays](https://battle-of-the-plays.github.io/)**
 
-#### 15:30–16:00 · Coffee Break
+#### 15:30–16:00 · Coffee Break ☕
 
 #### 16:00–17:30 · **Sessions 4 & 5**
 
