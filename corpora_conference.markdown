@@ -39,10 +39,10 @@ Otto-von-Simson-Str. 26\
 
 #### 14:30–16:00 · Session III
 ##### Session Chair: Henny Sluyter-Gäthje
-- **[DutchDraCor](https://dracor.org/dutch)/CENETON** (Lucas van der Deijl)
-- **[FreDraCor](https://dracor.org/fre)** ([slides](https://lehkost.github.io/slides/2025-09-02-fredracor/index.html)) and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
+- **[DutchDraCor](https://dracor.org/dutch)/[CENETON](https://www.let.leidenuniv.nl/Dutch/Ceneton/index.html)** (Lucas van der Deijl)
+- **[ItaDraCor](https://dracor.org/ita)** ([slides](https://lehkost.github.io/slides/2025-09-02-itadracor/index.html)) and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
 - **[CalDraCor](https://dracor.org/cal)** (Antonio Rojas Castro)
-- **[ItaDraCor](https://dracor.org/ita)** (Frank Fischer) ([slides](https://lehkost.github.io/slides/2025-09-02-itadracor/index.html))
+- **[FreDraCor](https://dracor.org/fre)** (Frank Fischer) ([slides](https://lehkost.github.io/slides/2025-09-02-fredracor/index.html))
 - **[CzeDraCor](https://staging.dracor.org/cze)** (Petr Pořízka)
 - **[SpanDraCor](https://dracor.org/span)** (María Teresa Santa María Fernández, María Ángel Somalo, José Torres, David Merino, Patricia García Sánchez-Migallón, Zoraida Sánchez, Guadalupe Frutos)
 
