@@ -28,7 +28,7 @@ Otto-von-Simson-Str. 26\
 
 #### 11:30–13:00 · Session II
 ##### Session Chair: Laura Untner
-- **[GerDraCor](https://dracor.org/ger)** and **[RusDraCor](https://dracor.org/rus)** (Frank Fischer)
+- **[GerDraCor](https://dracor.org/ger)** and **[RusDraCor](https://dracor.org/rus)** (Frank Fischer) ([slides](https://lehkost.github.io/slides/2025-09-02-gerdracor-rusdracor/index.html))
 - **[UDraCor](https://dracor.org/u)** (Julia Havrylash, Daniil Skorinkin)
 - **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
 - **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz)
@@ -40,9 +40,9 @@ Otto-von-Simson-Str. 26\
 #### 14:30–16:00 · Session III
 ##### Session Chair: Henny Sluyter-Gäthje
 - **[DutchDraCor](https://dracor.org/dutch)/CENETON** (Lucas van der Deijl)
-- **[FreDraCor](https://dracor.org/fre)** and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
+- **[FreDraCor](https://dracor.org/fre)** ([slides](https://lehkost.github.io/slides/2025-09-02-fredracor/index.html)) and **[EngDraCor](https://dracor.org/eng)** (Frank Fischer, Luca Giovannini)
 - **[CalDraCor](https://dracor.org/cal)** (Antonio Rojas Castro)
-- **[ItaDraCor](https://dracor.org/ita)** (Frank Fischer)
+- **[ItaDraCor](https://dracor.org/ita)** (Frank Fischer) ([slides](https://lehkost.github.io/slides/2025-09-02-itadracor/index.html))
 - **[CzeDraCor](https://staging.dracor.org/cze)** (Petr Pořízka)
 - **[SpanDraCor](https://dracor.org/span)** (María Teresa Santa María Fernández, María Ángel Somalo, José Torres, David Merino, Patricia García Sánchez-Migallón, Zoraida Sánchez, Guadalupe Frutos)
 
