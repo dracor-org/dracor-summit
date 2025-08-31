@@ -19,9 +19,9 @@ Otto-von-Simson-Str. 26\
 ##### Session Chair: Frank Fischer
 - **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia Jennifer Beine)
 - **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard)
-- **ArDraCor** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
+- **[ArDraCor](https://staging.dracor.org/ar)** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
 - **[HunDraCor](https://dracor.org/hun)** (Botond Szemes)
-- **IbsDraCor** (Nina Marie Evensen)
+- **[IbsDraCor](https://staging.dracor.org/ibs)** (Nina Marie Evensen)
 - **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin)
 
 #### 11:00–11:30 · Coffee Break
