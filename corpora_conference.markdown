@@ -31,7 +31,7 @@ Otto-von-Simson-Str. 26\
 - **[GerDraCor](https://dracor.org/ger)** and **[RusDraCor](https://dracor.org/rus)** (Frank Fischer) ([slides](https://lehkost.github.io/slides/2025-09-02-gerdracor-rusdracor/index.html))
 - **[UDraCor](https://dracor.org/u)** (Julia Havrylash, Daniil Skorinkin)
 - **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
-- **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz)
+- **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz) ([slides](https://sreyfe.github.io/slides/2025-09-02-dracor-summit/index.html))
 - **[GeorgDraCor](https://staging.dracor.org/georg)** (Irakli Khvedelidze)
 - **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia Jennifer Beine)
 
