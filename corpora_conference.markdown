@@ -17,7 +17,7 @@ Otto-von-Simson-Str. 26\
 
 #### 09:30–11:00 · Session I
 ##### Session Chair: Frank Fischer
-- **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia Jennifer Beine)
+- **[NeoLatDraCor](https://github.com/dracor-org/neolatdracor)** (Julia Jennifer Beine) ([slides](https://doi.org/10.5281/zenodo.17037084))
 - **[Digital Lacy](https://lb42.github.io/Lacy/)** (Lou Burnard) ([slides](https://lb42.github.io/Lacy/2025-09-02_berlin.html))
 - **[ArDraCor](https://staging.dracor.org/ar)** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
 - **[HunDraCor](https://dracor.org/hun)** (Botond Szemes)
@@ -33,7 +33,7 @@ Otto-von-Simson-Str. 26\
 - **[RoDraCor](https://staging.dracor.org/ro)** (Cristina Cojocaru Udrea, Victor Cobuz, Ovio Olaru)
 - **[YiDraCor](https://dracor.org/yi)** (Jonah Lubin, Ruthie Abeliovich, Sinai Rusinek, Stephan Schwarz) ([slides](https://sreyfe.github.io/slides/2025-09-02-dracor-summit/index.html))
 - **[GeorgDraCor](https://staging.dracor.org/georg)** (Irakli Khvedelidze)
-- **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia Jennifer Beine)
+- **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia Jennifer Beine) ([slides](https://doi.org/10.5281/zenodo.17037142))
 
 #### 13:00–14:30 · Lunch Break
 
