@@ -22,7 +22,7 @@ Otto-von-Simson-Str. 26\
 - **[ArDraCor](https://staging.dracor.org/ar)** (Ulrike Henny-Krahmer, Erik Renz, Gimena del Rio Riande, Laura Volkind, Romina de León, Nidia Hernández, María Teresa Ravelo Sánchez)
 - **[HunDraCor](https://dracor.org/hun)** (Botond Szemes)
 - **[IbsDraCor](https://staging.dracor.org/ibs)** (Nina Marie Evensen, Emil Røsås)
-- **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin)
+- **[CETHEFI](http://www.theaville.org/kitesite/index.php)** (Olivier Aubert, Françoise Rubellin) ([slides](https://olivieraubert.net/talks/20250902-dracor/))
 
 #### 11:00–11:30 · Coffee Break ☕
 
