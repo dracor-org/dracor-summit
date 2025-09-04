@@ -35,7 +35,7 @@ General Outline:
 #### 11:30–12:15 · **Sessions 2**
 
 * Linking characters in DraCor
-* Chinese Shakespeare Corpus
+* Chinese Shakespeare Corpus ([source repo](https://github.com/TechWilk/xn--jlQ54W7yPemW.org))
 
 #### 11:30–12:15 · **Sessions 3**
 
