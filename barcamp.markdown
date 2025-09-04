@@ -27,9 +27,20 @@ General Outline:
 
 #### 10:15–11:00 · **Session 1**
 
+* DraCor quality control and peer review
+* Encoding multilingualism
+
 #### 11:00–11:30 · Coffee Break ☕
 
-#### 11:30–13:00 · **Sessions 2 & 3**
+#### 11:30–12:15 · **Sessions 2**
+
+* Linking characters in DraCor
+* Chinese Shakespeare Corpus
+
+#### 11:30–12:15 · **Sessions 3**
+
+* DraCor data papers
+* Metacorpora in DraCor
 
 #### 13:00–14:00 · Lunch Break
 
@@ -37,38 +48,12 @@ General Outline:
 
 #### 15:30–16:00 · Coffee Break ☕
 
-#### 16:00–17:30 · **Sessions 4 & 5**
+#### 16:00–16:45 · **Sessions 4**
 
-Registered Barcamp Participants:
+* Teaching DraCor: The DraCor textbook
+* &#60;sourceDesc&#62; improvement ([#107](https://github.com/dracor-org/dracor-schema/issues/107))
 
-- Jan Angermeier
-- Ksenia Anisimova
-- Olivier Aubert
-- Julia Jennifer Beine
-- Ingo Börner
-- Louis Burnard
-- Joris Dolderer
-- Frank Fischer
-- Luca Giovannini
-- Tabeer Khilji
-- Juri Leino
-- Jonah Lubin
-- Carsten Milling
-- Dennis Mischke
-- Yael Netzer
-- Leonid Nezhinskiy
-- Eugenia Nicolaci
-- Eric Omazu
-- Charles Pletcher
-- Erik Renz
-- Antonio Rojas
-- Mareike Schumacher
-- Melanie Seltmann
-- Daniil Skorinkin
-- Henny Sluyter-Gäthje
-- Sara Taha Eltaher Ibrahim
-- EnDe Tang
-- Peer Trilcke
-- Aura Cristina Udrea
-- Laura Untner
-- Roya Zendebudie
+#### 16:45–17:30 · **Sessions 5**
+
+* Enhancing DraCor corpus descriptions
+* Ask [eXist-db](https://exist-db.org/) anything
