@@ -17,7 +17,7 @@ A Barcamp is an open, participatory event format (also called an »unconference�
 
 Important: You have to be [registered](registration) at the DraCor Summit to take part in the DraCor Barcamp.
 
-General Outline:
+### General Outline
 
 #### 9:15–9:30 · Registration and Welcome Coffee
 
@@ -57,3 +57,37 @@ General Outline:
 
 * Enhancing DraCor corpus descriptions
 * Ask [eXist-db](https://exist-db.org/) anything
+
+### Registered Barcamp Participants
+
+- Jan Angermeier
+- Ksenia Anisimova
+- Olivier Aubert
+- Julia Jennifer Beine
+- Ingo Börner
+- Louis Burnard
+- Joris Dolderer
+- Frank Fischer
+- Luca Giovannini
+- Tabeer Khilji
+- Juri Leino
+- Jonah Lubin
+- Carsten Milling
+- Dennis Mischke
+- Yael Netzer
+- Leonid Nezhinskiy
+- Eugenia Nicolaci
+- Eric Omazu
+- Charles Pletcher
+- Erik Renz
+- Antonio Rojas
+- Mareike Schumacher
+- Melanie Seltmann
+- Daniil Skorinkin
+- Henny Sluyter-Gäthje
+- Sara Taha Eltaher Ibrahim
+- EnDe Tang
+- Peer Trilcke
+- Aura Cristina Udrea
+- Laura Untner
+- Roya Zendebudie
