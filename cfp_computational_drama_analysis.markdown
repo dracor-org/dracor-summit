@@ -32,8 +32,8 @@ Revised full papers will be later published as peer-reviewed conference proceedi
 
 * ~~13 May 2025: Deadline for abstracts (up to 500 words)~~
 * ~~until 26 May 2025: Notification of acceptance~~
-* 10 August 2025: Deadline for full papers (4000–6000 words)
-* 3 September 2025: Workshop
+* ~~10 August 2025: Deadline for full papers (4000–6000 words)~~
+* ~~3 September 2025: Workshop~~
 * end of 2025: Deadline for revised papers
 
 Please send your abstract in PDF format to [info@dracor.org](mailto:info@dracor.org) by **13 May 2025**, stating »submission drama workshop« in the subject line.

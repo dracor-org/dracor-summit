@@ -42,9 +42,9 @@ Important: You have to be [registered](registration) at the DraCor Summit to tak
 * DraCor data papers
 * Metacorpora in DraCor
 
-#### 13:00–14:00 · Lunch Break
+#### 13:00–14:00 · Lunch Break 🥣
 
-#### 14:00–15:30 · World Championship: **[Battle of the Plays](https://battle-of-the-plays.github.io/)**
+#### 14:00–15:30 · 3rd World Championship: **[Battle of the Plays](https://battle-of-the-plays.github.io/)** 🏆
 
 #### 15:30–16:00 · Coffee Break ☕
 

@@ -35,7 +35,7 @@ Otto-von-Simson-Str. 26\
 - **[GeorgDraCor](https://staging.dracor.org/georg)** (Irakli Khvedelidze)
 - **[RomDraCor](https://dracor.org/rom)** and **[GreekDraCor](https://dracor.org/greek)** (Julia Jennifer Beine) ([slides](https://doi.org/10.5281/zenodo.17037142))
 
-#### 13:00–14:30 · Lunch Break
+#### 13:00–14:30 · Lunch Break 🥣
 
 #### 14:30–16:00 · Session III
 ##### Session Chair: Henny Sluyter-Gäthje
