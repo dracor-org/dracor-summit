@@ -13,4 +13,17 @@ Freie Universität Berlin\
 Otto-von-Simson-Str. 15\
 14195 Berlin-Dahlem
 
-#### 9:15–9:30 · Registration and Welcome Coffee
+#### 09:15 · Welcome Coffee
+
+#### 09:30 · Start of the Co-Working Day
+
+##### Things we worked on
+
+* release of [DraCor Schema 1.0.2](https://github.com/dracor-org/dracor-schema/releases/tag/v1.0.2)
+* enhancing corpus descriptions and documentation of the function and structure of »corpus.xml« files ([#108](https://github.com/dracor-org/dracor-schema/issues/108))
+* planned deprecation of ```<standOff>``` ([#133](https://github.com/dracor-org/dracor-schema/issues/133))
+* official release of the Romanian Drama Corpus ([RoDraCor](https://dracor.org/ro)) on production server
+* discuss structure of the DraCor website (»About – Corpora – Tools – How To – Merch«) ([#355](https://github.com/dracor-org/dracor-frontend/discussions/355))
+* new releases of pydracor and pydracor-base
+* fixing errors in rdracor
+* DraCor and Performance Studies ([#336](https://github.com/dracor-org/dracor-api/discussions/336)) (linking character via IDs between ```particDesc``` and ```castList```)
