@@ -4,7 +4,7 @@ title: "Workshop on Computational Drama Analysis"
 permalink: /computational_drama_analysis
 ---
 
-The Workshop on Computational Drama Analysis takes place on Wednesday, 3 September 2025.
+The Workshop on Computational Drama Analysis took place on Wednesday, 3 September 2025.
 
 Venue ([Seminar Centre](venue)):\
 **Room L116**\
@@ -14,6 +14,8 @@ Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
 The conference reader was uploaded to Zenodo: [doi:10.5281/zenodo.16814034](https://doi.org/10.5281/zenodo.16814034).
+
+All slides (in one PDF file) are also available on Zenodo: [doi:10.5281/zenodo.17251554](https://doi.org/10.5281/zenodo.17251554).
 
 #### 9:00–9:50 · Registration and Welcome Coffee
 

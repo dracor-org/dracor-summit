@@ -4,7 +4,7 @@ title: "Barcamp"
 permalink: /barcamp
 ---
 
-The DraCor Barcamp takes place on Thursday, 4 September 2025.
+The DraCor Barcamp took place on Thursday, 4 September 2025.
 
 Venue ([Seminar Centre](venue)):\
 **Room L113**\
@@ -14,8 +14,6 @@ Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
 
 A Barcamp is an open, participatory event format (also called an »unconference«). Barcamps have no predefined speakers or rigid schedules. Instead, participants create the agenda themselves.
-
-Important: You have to be [registered](registration) at the DraCor Summit to take part in the DraCor Barcamp.
 
 ### General Outline
 

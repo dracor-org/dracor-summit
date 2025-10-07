@@ -4,9 +4,9 @@ title: "DraCorOS Training Sessions"
 permalink: /dracoros_training_sessions
 ---
 
-The DraCorOS Training Sessions take place on Monday, 1 September 2025.
+The DraCorOS Training Sessions took place on Monday, 1 September 2025.
 
-Sessions will be taught by: Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
+Sessions were taught by: Julia Jennifer Beine, Ingo Börner, Frank Fischer, Luca Giovannini, Carsten Milling, Antonio Rojas Castro, Mark Schwindt, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke, Laura Untner.
 
 Venue ([Seminar Centre](venue)):\
 **Room L115**\

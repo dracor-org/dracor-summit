@@ -4,7 +4,7 @@ title: "DraCor Corpora Conference"
 permalink: /corpora_conference
 ---
 
-The DraCor Corpora Conference takes place on Tuesday, 2 September 2025.
+The DraCor Corpora Conference took place on Tuesday, 2 September 2025.
 
 Venue ([Seminar Centre](venue)):\
 **Room L115**\
@@ -12,6 +12,8 @@ Seminarzentrum der Freien Universität Berlin\
 Freie Universität Berlin\
 Otto-von-Simson-Str. 26\
 14195 Berlin-Dahlem
+
+All slides (in one PDF file) are available on Zenodo: [doi:10.5281/zenodo.17251760](https://doi.org/10.5281/zenodo.17251760).
 
 #### 9:15–9:30 · Registration and Welcome Coffee
 

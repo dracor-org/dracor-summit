@@ -4,7 +4,7 @@ title: "Open Co-Working"
 permalink: /open_coworking
 ---
 
-The DraCor Open Co-Working takes place on Friday, 5 September 2025.
+The DraCor Open Co-Working took place on Friday, 5 September 2025.
 
 Venue ([Seminar Centre](venue)):\
 **Rooms 00.05 and 00.07**\
