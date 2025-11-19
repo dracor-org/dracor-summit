@@ -67,6 +67,7 @@ A Barcamp is an open, participatory event format (also called an »unconference�
 - Joris Dolderer
 - Frank Fischer
 - Luca Giovannini
+- Martina Gödel
 - Tabeer Khilji
 - Juri Leino
 - Jonah Lubin
