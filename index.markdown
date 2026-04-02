@@ -10,7 +10,7 @@ layout: home
 
 ⚠️ **Update (October 2025):** The Summit website has entered maintenance mode. Its content remains available for reference.
 
-⚠️ **Update (March 2026):** Our Summit report was just published on H-Soz-Kult. – Citation: Laura Untner, Frank Fischer, Henny Sluyter-Gäthje, Peer Trilcke, Julia Jennifer Beine: Conference Report, »DraCor Summit 2025« (September 2025). In: H-Soz-Kult, 13 March 2026. (URL: https://www.hsozkult.de/conferencereport/id/fdkn-160945)
+⚠️ **Update (March 2026):** Our Summit report was just published on H-Soz-Kult. – **Citation:** Laura Untner, Frank Fischer, Henny Sluyter-Gäthje, Peer Trilcke, Julia Jennifer Beine: Conference Report, »DraCor Summit 2025« (September 2025). In: H-Soz-Kult, 13 March 2026. (URL: [https://www.hsozkult.de/conferencereport/id/fdkn-160945](https://www.hsozkult.de/conferencereport/id/fdkn-160945))
 
 **[DraCor](https://dracor.org/)** – short for Drama Corpora – is a digital ecosystem dedicated to the study of drama from antiquity to the 20th century. The multilingual community project follows the principles of open science. We currently maintain **28 drama corpora** encoded in [TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative) with a total of **over 4,000 annotated full texts of plays in 22 languages**. It is the basis for a very vibrant research landscape around the computational research of drama corpora. Between early 2024 and the week of the Summit, more than 60 monographs and scholarly articles [have been published](https://dracor.org/doc/research) worldwide that work with DraCor data.
 
