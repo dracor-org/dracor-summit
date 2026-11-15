@@ -19,10 +19,11 @@ on:
 permissions:
   contents: read
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# Allow only one concurrent deployment per server, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# (Not shared with the GitHub Pages workflow, which a deployment waiting for approval would block.)
 concurrency:
-  group: "pages"
+  group: deploy-${{ inputs.server }}
   cancel-in-progress: false
 
 jobs:
@@ -61,6 +62,8 @@ jobs:
         with:
           name: site
           path: _sitex/
+          # otherwise e.g. a .htaccess would be missing and rsync deletes it
+          include-hidden-files: true
           if-no-files-found: error
 
   deploy:
